@@ -560,14 +560,48 @@
 558,darren and Chris,qm92,red,3,612,true,8Lcube,0.0,1.0,,, | ,4Lcube|5M|7Lcube|9Lcube,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,0.5, | 
 559,Sayan,qm92,red,2,836,true,1M,0.0,1.0,,,Missed 2 auto grabs,1H|2M|2H|3M|4M|4H|6H,0.0,,,,,Kept cycling while teammates did double engage,0.0,0.0,0.0,0.0,4.0,
 560,Rithvik and Sydney,qm92,red,,8230,true,5Lcube|5H,0.0,1.0,Engage,Engage, | ,6Lcube,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
-561,Sayan,qm93,,2,6802,true,9H,0.0,true,,,,4H|6H|7Lcone|7M,1.0,,,,,Let teammates double climb,false,false,0.0,0.0,0.0,Good cycler
-562,Eckart,qm93,,,2199,true,4H,0.0,true,Engage,Engage,,3H|6H|7M|7H,0.0,,Engage,Engage,12.2,,false,false,0.0,0.0,4.0,
-563,Rithvik,qm93,,,1418,true,1H,0.0,true,,,,7H|8M|8H|9Lcone|9M,0.0,,Engage,Engage,4.3,,false,false,0.0,0.0,4.0,
-564,Chris,qm93,,3,384,false,5H,0.0,true,Engage,Engage,,1M|2M|2H|3H|4M|5M|6M,0.0,,Engage,Engage,5,,false,true,0.0,0.0,0.0,
-565,darren,qm93,,3,384,true,5H,0.0,true,Engage,Engage,,1M|2M|2H|3M|3H|4M|5M|6M,0.0,,Engage,Engage,2,,false,true,0.0,0.0,0.0,
-566,Nicole,qm93,,3,614,true,8H,0.0,true,,,,2Lcube|7Lcube|8Lcube|8M|9Lcube|9M,1.0,,Engage,Engage,1.8,,false,true,0.0,0.0,0.0,
-567,Hannah,qm93,,2,888,true,2H,0.0,true,,None,,1H|4Lcone|5H|9H,1.0,,Engage,Engage,8.7,,false,false,0.0,0.0,0.0,
-568,Sydney,qm93,,,1418,true,1H,0.0,true,,None,,7Lcone|7H|8M|8H|9Lcone|9M,0.0,,Engage,Engage,6,,false,false,0.0,0.0,0.0,
-569,Sri,qm93,,3,614,false,8H,0.0,true,,,,2Lcube|7Lcube|8Lcube|8M|9Lcube|9M,2.0,,Engage,Engage,3,,false,false,0.0,0.0,5.0,
-570,Olivia,qm93,,2,888,true,8H,0.0,true,,,got stuck on charging pad when trying to get another piece ,1H|5H|7Lcone|9H,0.0,,Engage,Engage,10,,false,false,0.0,0.0,3.0,
-571,Neel,qm93,,,2199,true,1H,0.0,true,Engage,Engage,,6H|7M|8M|9H,0.0,,Engage,Engage,5,,false,false,0.0,0.0,3.0,
+561,Nicole and Sri,qm93,blue,3,614,true,8H,0.0,1.0,,, | ,2Lcube|7Lcube|8Lcube|8M|9Lcube|9M,1.5, | ,Engage,Engage,, | ,0.0,0.5,0.0,0.0,2.5, | 
+562,Hannah and Olivia,qm93,blue,2,888,true,2H,0.0,1.0,,None, | got stuck on charging pad when trying to get another piece ,1H|4Lcone|5H|9H,0.5, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,1.5, | 
+563,Eckart and Neel,qm93,blue,,2199,true,4H,0.0,1.0,Engage,Engage, | ,3H|6H|7M|7H,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,3.5, | 
+564,Chris and darren,qm93,red,3,384,false,5H,0.0,1.0,Engage,Engage, | ,1M|2M|2H|3H|4M|5M|6M,0.0, | ,Engage,Engage,, | ,0.0,1.0,0.0,0.0,0.0, | 
+565,Rithvik and Sydney,qm93,red,,1418,true,1H,0.0,1.0,,None, | ,7H|8M|8H|9Lcone|9M,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+566,Sayan,qm93,red,2,6802,true,9H,0.0,1.0,,,,4H|6H|7Lcone|7M,1.0,,,,,Let teammates double climb,0.0,0.0,0.0,0.0,0.0,Good cycler
+567,Hannah and Olivia,qm94,blue,2,346,true,8H,0.0,1.0,,None, | ,1Lcube|2Lcube|4Lcube|5Lcube|6Lcube|7Lcube|8Lcube|9Lcube,2.5, | ,Engage,Engage,3.0999999999999996, | ,0.0,0.0,0.0,0.0,2.0, | 
+568,darren,qm94,blue,3,422,true,,0.0,0.0,,,,1Lcone|2Lcube|3Lcube|4Lcube|5Lcube|6Lcube|7Lcube|8Lcube,1.0,,Engage,Engage,5,,0.0,0.0,0.0,0.0,4.0,
+569,Neel,qm94,blue,,2412,true,1H|8H,0.0,1.0,,None,,6H,0.0,,,None,,,1.0,0.0,0.0,0.0,1.0,
+570,Eckart,qm94,blue,,2421,true,2H,0.0,1.0,,None,,,0.0,Disabled at the start of teleop and reenabled briefly midway through,,None,,,1.0,0.0,0.0,0.0,2.0,
+571,Sri and Nicole,qm94,blue,3,9072,true,5H,0.0,0.0,Engage,Engage, | ,,0.0, | ,Engage,Engage,, | ,0.0,1.0,30.0,1.5,2.0, | 
+572,Chris and darren,qm94,red,3,1908,true,1H,0.0,1.0,,, | ,1Lcube|2Lcube|2H|3Lcube|3H,0.5, | ,Engage,Engage,, | triple dock and engage,0.0,0.0,0.0,0.0,0.0, | 
+573,Sayan,qm94,red,2,2028,true,9H,0.0,1.0,,,,4Lcube|6Lcone|8H,1.0,,Engage,Engage,,Triple,0.0,0.0,0.0,0.0,0.0,
+574,Sydney and Rithvik,qm94,red,,2106,false,4H,0.0,0.0,Engage,Engage, | ,5Lcube|5H|6Lcone|7Lcone|7H,0.5, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+575,Eckart and Neel,qm95,blue,,449,true,1H|2H|7H|9H,0.0,0.0,,None, | ,6M|7H|9H,0.0,Alliance members got in way of cycles frequently  | ,,Engage,, | ,0.0,0.0,0.0,0.0,4.0, | 
+576,Arav,qm95,blue,2,4492,true,9Lcube,0.0,1.0,Engage,Engage,,4H|5H|7H|9H,2.0,,Engage,Engage,3,,0.0,0.0,0.0,0.0,4.0,
+577,Olivia and Hannah,qm95,blue,2,5724,true,4H,0.0,0.0,Engage,Engage, | ,4M|6M|6H|7H,0.0,struggled to pick up cones  | ,Engage,Engage,1.75, | ,0.0,0.0,0.0,0.0,0.0, | 
+578,Nicole and Sri,qm95,blue,3,7770,true,8H,0.0,1.0,,None,Didnt pick up second piece auto | ,2Lcube|5H|7Lcube,1.0, | ,,Park,, | ,0.0,0.0,30.0,1.0,1.0, | 
+579,Chris,qm95,red,3,422,true,,0.0,0.0,,,,1Lcone|2Lcube|3Lcube|4Lcube|5Lcube|6Lcube|7Lcube|8Lcube,0.0,,Engage,Engage,5,,0.0,0.0,0.0,0.0,0.0,
+580,Sayan,qm95,red,2,4472,true,6H,0.0,1.0,Engage,Engage,,4H|5H|7H|8H|9H,2.0,,Engage,Engage,,Triple,0.0,0.0,0.0,0.0,3.0,
+581,Rithvik and Sydney,qm95,red,,8622,true,3Lcube,0.0,1.0,,None, | ,,0.0, | ,Engage,Engage,, | ,0.0,0.0,90.0,2.0,1.0, | 
+582,Sayan,qm96,,2,122,true,5H,0.0,true,Engage,Engage,,1H|3Lcone|3H|8H,0.0,,Engage,Engage,,Double,false,false,0.0,0.0,0.0,
+583,Chris ,qm96,,3,5587,true,8Lcone,0.0,true,,,,1Lcube|2Lcube|7Lcube,0.0,,Engage,Engage,7,,true,false,0.0,0.0,0.0,
+584,darren,qm96,,3,5587,true,8Lcone,0.0,true,,,,1Lcube|2Lcube|7Lcube,0.0,,Engage,Engage,8,got balanced after disabling,true,false,0.0,0.0,2.0,
+585,Hannah,qm96,,2,1389,true,1H,1.0,true,,None,,3H|5M|6M|7H|9Lcube,0.0,,Engage,Engage,7.7,,false,false,0.0,0.0,0.0,
+586,Rithvik,qm96,,,8592,true,1H|2H,0.0,true,,,,4M|5Lcube|5M|6M|7H|9H,0.0,,,Engage,,,false,false,0.0,0.0,4.0,
+587,Eckart,qm96,,,6326,true,9H,0.0,true,,None,,5H|7Lcube|8H|9Lcube,0.0,,Engage,Engage,20.2,,false,true,0.0,0.0,0.0,Almost tipped when hit by 8592
+588,Sri,qm96,,3,5804,true,6H,0.0,true,Engage,Engage,,4M|4H|5Lcube|5H|8Lcube,1.0,,Engage,Engage,9,,false,false,20.0,1.0,5.0,
+589,Nicole,qm96,,3,5804,true,4H,0.0,true,Engage,Engage,,2H|4M|4H|5Lcube|8Lcube,1.0,,Engage,Engage,7.1,,false,false,0.0,0.0,4.0,
+590,Arav,qm96,,2,122,true,5H,0.0,true,,None,,1H|3Lcone|4H|6H|8H,0.0,,Engage,Engage,4,,false,false,0.0,0.0,4.0,
+591,Sydney ,qm96,,,8592,false,2H|3H,0.0,true,,None,,4M|5M|6Lcube|6M|7Lcube|7H|9H,0.0,,,Park,,,false,false,0.0,0.0,4.0,
+592,Olivia,qm96,,2,1389,true,9H,0.0,true,,,could not get the second game piece,1Lcube|3H|5M|6M|7H,0.0,,Engage,Engage,7.9,,false,false,0.0,0.0,4.0,
+593,Neel,qm96,,,6326,true,9H,0.0,true,,None,,7H|8Lcube|9Lcube|9H,0.0,,Engage,Engage,10,,false,false,0.0,0.0,3.0,
+594,Sayan,qm97,,2,8726,true,8H,0.0,true,,,,7M|8M|9M|9H,0.0,,Engage,Engage,,Double,false,false,0.0,0.0,0.0,
+595,Rithvik,qm97,,,3373,true,,0.0,false,,,,5H|6Lcube,1.0,,,Engage,,,true,false,0.0,0.0,2.0,
+596,darren,qm97,,3,4099,true,1H|2H,0.0,true,,,,1Lcube|2Lcube|3Lcube|3H|4Lcube|4H|6H|7H,0.0,,Engage,Engage,2,,false,false,0.0,0.0,5.0,
+597,Sydney,qm97,,,3373,true,,0.0,false,,None,,5H|7Lcube,0.0,,,None,,,true,false,0.0,0.0,0.0,
+598,Olivia,qm97,,2,4456,true,5H,0.0,false,,,,3H|4H,0.0,fell over,,,,,false,true,0.0,0.0,2.0,
+599,Hannah,qm97,,2,4456,true,5H,0.0,false,,,,6H|7H,0.0,tipped,,,,,false,true,0.0,0.0,0.0,
+600,Nicole,qm97,,3,116,true,1H,0.0,true,,,,3H,0.0,,,,,,true,false,0.0,0.0,0.0,
+601,Neel,qm97,,,5338,true,9H,0.0,true,,None,,2H|5Lcube|6Lcube|7Lcube|8Lcube|8H|9Lcube,0.0,,Engage,Engage,3,,false,false,0.0,0.0,4.0,
+602,Arav,qm97,,2,8726,false,8H,0.0,true,Engage,,,7M|8M|9M,0.0,,Engage,Engage,2,,false,false,0.0,0.0,0.0,
+603,Eckart,qm97,,,5338,true,9H,0.0,true,,None,,2H|4H|5Lcube|7Lcube|8Lcube|8H|9Lcube,0.0,,Engage,Engage,4.5,,false,false,0.0,0.0,0.0,
+604,Sri,qm97,,3,116,true,1H,0.0,true,,,,3H,0.0,,,,,,true,false,0.0,0.0,2.0,
+605,Chris,qm97,,3,4099,true,1H|2H,0.0,true,,,,1Lcube|2Lcube|3Lcube|3H|4H|6H|7H,0.0,,Engage,,5,,false,false,0.0,0.0,0.0,
