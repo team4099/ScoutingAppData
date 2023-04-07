@@ -252,52 +252,134 @@
 250,Shashwat and Adrian Sun,qm46,red,2,122,false,5H,0.0,0.0,Engage,Engage, | ,3H|4H|6H|8H,0.0, | ,Engage,None,, | ,0.0,0.0,0.0,0.0,0.0, | 
 251,Aran and Amogh,qm46,red,,401,true,1H,0.0,1.0,,None, | ,2H|3H|7H|9H,1.0, | ,,None,, | ,0.0,0.0,0.0,0.0,4.5, | 
 252,alexander,qm46,red,3,6863,false,,0.0,1.0,,None,,,0.0,,Engage,Engage,16 seconds,Solo engage,0.0,0.0,100.0,4.0,4.0,Broken Intake
-253,Rachel and Blen and Owen,qm47,blue,,977,true,5M,0.0,0.0,Engage,None, |  | ,6Lcube|7Lcube,0.25, | cube fell out of intake multiple times  | Played defense the whole time,Engage,Engage,, |  | ,0.0,0.0,55.0,2.25,2.5, |  | 
+253,Rachel and blen,qm47,blue,,977,true,5M,0.0,0.0,Engage,None, |  | ,6Lcube|7Lcube,0.25, | cube fell out of intake multiple times  | Played defense the whole time,Engage,Engage,, |  | ,0.0,0.0,55.0,2.25,2.5, |  | 
 254,Suhani and Sophia T,qm47,blue,3,2363,true,8Lcone|9Lcone,0.5,1.0,,None, | ,1H|2Lcube|3Lcube|3H|4Lcube|4H|5Lcube,0.5,Fast intake and outtake | intakes from ground,Engage,Engage,14.85, | ,0.0,0.0,10.0,1.5,4.5, | 
 255,Saragha and sarah,qm47,blue,2,4541,false,1Lcone,1.0,1.0,,None, | ,7H|9H,1.0, | ,Engage,None,, | ,0.0,0.0,0.0,0.0,0.0, | 
 256,Aran and Amogh,qm47,red,,1599,true,5H,0.0,0.0,,None, | ,7M|8Lcube|8H|9Lcone|9H,0.0, | ,Engage,Engage,4.65, | ,0.0,0.5,0.0,0.0,0.5, | 
 257,Adrian Sun and Shashwat,qm47,red,2,8592,true,3H,0.0,1.0,,None, | ,1M|1H|4M|5M|6M|9Lcone,1.0, | ,Engage,Engage,6.8, | ,0.0,0.0,0.0,0.0,4.5, | 
-258,alexander,qm47,red,3,8622,true,9Lcube,0.0,1.0,,None,Crossed center line,,0.0,,Engage,Park,,,0.0,0.0,100.0,3.0,5.0,Broken Intake| but very effective defense when head on| otherwise they struggle
-259,Sophia T and Suhani,qm5,blue,3,611,true,8H,0.0,1.0,,None, | ,2M|2H,0.0,struggled to pick up cones from the single substation | Missed 5 intake attempts,Engage,Engage,5.7, | Fast dock and engage,0.0,0.0,10.0,1.0,2.0, | 
-260,Owen,qm5,blue,3,1999,false,,0.0,0.0,,,,1H|2H|3H,1.0,,Engage,Dock,4,,1.0,0.0,20.0,1.0,4.0,
-261,Rachel and Blen,qm5,blue,,2421,true,2Lcube,0.5,1.0,,, | ,6Lcube|7Lcube|8Lcube,0.0, | struggled with picking up cubes from ground ,Engage,Engage,2.5, | ,0.0,0.0,0.0,0.0,2.0, | slow 
-262,sarah and Saragha,qm5,blue,,3136,true,6H,0.0,1.0,Engage,Engage, | ,4H,0.5, | ,,,, | ,1.0,0.0,0.0,0.0,2.0,intake from ground takes long to lineup | Slow
-263,alexander,qm5,red,3,1599,true,5H,0.0,1.0,Engage,Engage,,3H|6H|7Lcone|7H,1.0,7H missed once| got pushed into 7L,Engage,Engage,7 seconds,Two robots engaged,0.0,0.0,0.0,0.0,5.0,Very smooth and quick driving. Time to alignment could be better. 
-264,Shashwat and Adrian Sun,qm5,red,2,2363,true,1Lcone|2Lcone,1.0,1.0,,None, | ,1H|2H|3Lcone|4Lcube|4H|5Lcube|6Lcube|8Lcube|9H,0.0, | ,Engage,Engage,2.55, | ,0.0,0.0,0.0,0.0,4.0, | Drove well but speed is kinda slow
-265,aran and Amogh,qm5,red,,7770,false,,0.0,1.0,,, | ,7M|9Lcube,0.0, | ,,None,, | ,0.0,0.5,50.0,1.0,1.5, | 
-266,sarah and Saragha,qm6,blue,2,401,true,8H|9H,0.5,1.0,,None,missed cone pickup | ,2Lcube|2M|3H|4M|6M|6H|7Lcube|7M|7H,0.0, | ,,Park,, | ,0.0,0.0,0.0,0.0,4.0, | 
-267,Rachel and Blen Shiferaw,qm6,blue,,5549,false,,0.0,1.0,,, | ,5Lcube|5M|5H|8Lcube|8M,0.0, | ,Engage,Engage,5.1, | ,0.0,0.0,0.0,0.0,2.5, | 
-268,Suhani and Sophia T,qm6,blue,3,5804,false,4H,0.0,1.0,Engage,Engage, | ,1M|1H|2Lcube|3Lcube|3M|4Lcube|6Lcube|9Lcube,0.0,Able to move cube from one hybrid node to another | mostly picked up cubes from ground| scored low,Engage,Engage,,Fast dock and engage | ,0.0,0.0,0.0,0.0,4.5, | 
-269,alexander and owen,qm6,red,3,2028,true,9H,0.0,1.0,,None, | ,2H|3H,0.0,Moved 3L to 2HStruggles to pick up cubes | ,Engage,Engage,,Very quick at engaging | ,0.0,0.0,10.0,0.5,4.0,Smooth driving and fast alignments | 
-270,Shashwat  and Adrian Sun,qm6,red,2,2199,true,7Lcone,0.0,0.0,Engage,Engage, | ,1Lcone|7H|8Lcone|9Lcone,1.0, | ,,None,, | ,0.0,0.0,0.0,0.0,3.5, | 
-271,Aran and Amogh,qm6,red,,5338,true,1H,0.0,1.0,,None, | ,5H|8M|8H,1.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
-272,Rachel and Blen,qm7,blue,,1086,true,,1.0,0.0,Engage,Dock, | ,8M|9M,1.0, | ,Engage,Engage,, | struggled to intake cubes from single substation ,0.0,0.5,0.0,0.0,1.5,consistently drops pieces when intaking | intake was very faulty overall struggled to align at substations 
-273,Suhani and Sophia T,qm7,blue,3,1908,false,9H,0.0,1.0,,None, | ,3H|4Lcone|5H|6H|8H,1.0, | ,,None,, | ,0.0,0.5,0.0,0.0,2.0, | 
-274,sarah and Saragha,qm7,blue,2,4541,true,,1.0,1.0,,None, | ,1Lcone|1H|3Lcone|4Lcone|4H|7Lcube|7H,1.0, | ,Engage,Engage,1.7, | ,0.0,0.0,0.0,0.0,1.5, | 
-275,aran and Amogh,qm7,red,,384,true,8H,0.0,1.0,,, | ,4H|6M|6H|8M|9M|9H,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,4.0, | 
-276,Shashwat and Adrian Sun,qm7,red,2,614,true,8H,0.0,1.0,,None, | ,4Lcube|6Lcube|7Lcube|8Lcube|9Lcube,0.0, | Only did bottom cubes,Engage,Engage,7.949999999999999, | ,0.0,0.0,0.0,0.0,2.0, | 
-277,alexander and Owen,qm7,red,3,1731,true,1H|2H,0.5,1.0,,None, | Really good,1M|2M|3M|3H|4H|6M,0.0,Very fast cycles | Really good intake and out take it can also take a lot of hits,Engage,Engage,,Triple engage  | Good,0.0,0.0,20.0,2.0,5.0,Very rapid cycles| quick alignments| generally a very good offensive pick | They were really good at driving and were fast and light
-278,Saragha and sarah,qm8,blue,2,449,false,9H,0.0,0.0,,None,Had two cubes insude | two cubes got stuck during their auto,1M|4H|6M|6H|7H|8M|8H,0.0, | ,,Park,, | ,0.0,0.0,0.0,0.0,4.0, | 
-279,Sophia T and Suhani,qm8,blue,3,1629,true,5H,0.0,1.0,Engage,Engage, | ,1H|3M|5Lcone|7Lcube,0.0, | Knocked off middle cube,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
-280,Rachel and Blen Shiferaw,qm8,blue,,3373,true,2H,0.5,1.0,,, | ,2Lcube|2M|3Lcube|5M,0.5, | ,Engage,Engage,5.699999999999999, | ,0.0,0.5,0.0,0.0,2.0, | takes a long time to intake from ground 
-281,Adrian Sun and Shashwat,qm8,red,2,2068,false,4H,0.0,1.0,Engage,Engage, | ,6H,0.5, | ,Engage,Engage,12.9, | ,0.0,0.0,0.0,0.0,1.0, | 
-282,alexander and Owen,qm8,red,3,8592,true,6H,0.0,1.0,Engage,Engage, | ,1Lcube|1H|2H|3H|4Lcone|4H|9H,1.0,4L fell from 4H1L and 9L were pushed in by the robot | Did good with cones,,None,, | They messed around for a while,0.0,0.0,10.0,1.0,1.0, | Bad at positioning
-283,Amgoh and Aran,qm8,red,,9072,true,,0.5,0.0,,, | ,,0.0, | Defense,Engage,Engage,, | ,0.0,1.0,70.0,1.0,1.0, | 
-284,Suhani,qm9,blue,3,422,true,9H,0.0,1.0,,None,Attempted 3 piece auto but missed 2,1H|2Lcone|2M|3H|4H,1.0,,Engage,Engage,9.7,,0.0,0.0,0.0,0.0,4.0,
-285,Saragha and sarah,qm9,blue,2,3939,false,2H,0.0,1.0,,, | missed one cube pickup,2Lcube|3Lcube|4Lcone|5Lcube|6Lcube|7Lcube|8H,0.0, | ,,Park,, | ,0.0,1.0,0.0,0.0,1.5, | 
-286,Rachel and Blen Shiferaw,qm9,blue,,6802,true,5H,0.0,1.0,Engage,Engage, | ,6H|7H,1.0, | spent a lot of time trying to align at double substation,Engage,Engage,3.0, | ,0.0,0.5,0.0,0.0,1.0,intake at double sub is very slow | 
-287,Shashwat and Adrian Sun,qm9,red,2,612,true,8Lcube,0.0,0.0,,None, | ,,0.0, | ,Engage,Engage,9.05, | ,0.0,0.0,90.0,2.5,1.0, | Defended whole game| but robot was very slow
-288,aran and Amogh,qm9,red,,1895,true,5Lcone,0.0,1.0,Engage,None, | ,8Lcone,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,1.0, | 
-289,alexander and owen,qm9,red,3,8726,true,2H,0.0,1.0,,None, | ,1Lcone|1H|3H|4Lcube|5Lcube,0.5, | Bad at aligning and intake and gripper was bad,Engage,Engage,,Triple dock and engage | ,0.0,0.5,0.0,0.0,1.5, | Really bad a defense and gets tiped a lot
-290,Rachel,qm48,,,8726,true,8H,0.0,true,,,,2Lcube|3Lcube|4Lcube|5Lcube|6Lcube|8Lcube,0.0,,,Park,,,false,false,0.0,0.0,0.0,
-291,sarah,qm48,,2,1629,true,2H,0.0,true,,None,,3H|4H|6H|9Lcone,1.0,,Engage,Engage,9,,false,false,0.0,0.0,0.0,
-292,Aran,qm48,,,1610,true,,1.0,false,Engage,Engage,,2Lcube|3Lcube|5Lcube|6Lcube|7Lcube|8Lcube|9Lcube,0.0,,,Park,,,false,false,0.0,0.0,2.0,
-293,Amogh,qm48,,,1610,true,,1.0,false,,,,2Lcube|3Lcube|4Lcube|6Lcube|9Lcube,0.0,,,None,,,false,false,0.0,0.0,2.0,
-294,Saragha,qm48,,2,1629,true,2H,0.0,true,,None,,3H|4H|6H|9Lcone,1.0,,Engage,Engage,5,,false,false,0.0,0.0,4.0,
-295,Adrian Sun,qm48,,2,7770,false,,2.0,true,,,Missed both cubes,2H|5H,0.0,,Engage,Engage,7.0,,true,false,0.0,0.0,1.0,
-296,Shashwat,qm48,,2,7770,true,,1.0,true,,,,2H|5H,0.0,,Engage,Engage,10,,false,false,0.0,0.0,2.0,
-297,alexander,qm48,,3,2028,true,9H,0.0,true,,None,,1H|7H,0.0,,Engage,Engage,,Double engage,false,true,0.0,0.0,2.0,Very slow driving and alignments
-298,Suhani,qm48,,3,6802,false,5H,0.0,true,Engage,Dock,,1H|7Lcone|7H|9Lcone|9H,0.0,,Engage,Engage,4.9,,false,false,0.0,0.0,5.0,
-299,Blen Shiferaw,qm48,,,8726,true,8H,0.0,true,,,,1Lcube|3Lcube|4Lcube|5Lcube|6Lcube|8Lcube,0.0,,,,,not enough space on charge station ,false,false,0.0,0.0,0.0,
-300,Sophia T,qm48,,3,6802,true,5H,0.0,true,Engage,Dock,,1H|7Lcone|7H|9H,0.0,struggles to reach high cone nodes,Engage,Engage,9.5,,false,false,0.0,0.0,0.0,
-301,Owen,qm,,,2028,false,,0.0,false,,,,,0.0,,,,,,false,false,40.0,2.0,0.0,
+258,Alexander and owen,qm47,red,3,8622,true,9Lcube,0.0,1.0,,None,Crossed center line,,0.0,,Engage,Park,,,0.0,0.0,100.0,3.0,5.0,Broken Intake| but very effective defense when head on| otherwise they struggle
+259,sarah and Saragha,qm48,blue,2,1629,true,2H,0.0,1.0,,None, | ,3H|4H|6H|9Lcone,1.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+260,Suhani and Sophia T,qm48,blue,3,6802,false,5H,0.0,1.0,Engage,Dock, | ,1H|7Lcone|7H|9Lcone|9H,0.0, | struggles to reach high cone nodes,Engage,Engage,7.2, | ,0.0,0.0,0.0,0.0,2.5, | 
+261,Rachel and Blen Shiferaw,qm48,blue,,8726,true,8H,0.0,1.0,,, | ,2Lcube|3Lcube|4Lcube|5Lcube|6Lcube|8Lcube,0.0, | ,,None,, | not enough space on charge station ,0.0,0.0,0.0,0.0,0.0, | 
+262,Aran and Amogh,qm48,red,,1610,true,,1.0,0.0,Engage,Engage, | ,2Lcube|3Lcube|5Lcube|6Lcube|7Lcube|8Lcube|9Lcube,0.0, | ,,None,, | ,0.0,0.0,0.0,0.0,2.0, | 
+263,alexander and Owen,qm48,red,3,2028,true,9H,0.0,1.0,,None, | ,1H|7H,0.0, | ,Engage,Engage,,Double engage | ,0.0,0.5,20.0,1.0,1.0,Very slow driving and alignments | 
+264,Adrian Sun and Shashwat,qm48,red,2,7770,false,,1.5,1.0,,,Missed both cubes | ,2H|5H,0.0, | ,Engage,Engage,, | ,1.0,0.0,0.0,0.0,1.5, | 
+265,Rachel and Blen Shiferaw,qm49,blue,,623,true,6M,0.0,1.0,Engage,Engage, | ,1Lcone|1M|3M|4M|5Lcone|6Lcube|7M|8Lcube|9Lcube|9M,0.0, | fast,,None,, | not enough space on charge station ,0.0,0.0,0.0,0.0,4.5, | 
+266,sarah and Saragha,qm49,blue,2,1262,true,,0.0,1.0,,None, | ,3H,1.0,keep dropping cones after intaking | ,Engage,None,, | ,0.0,0.0,0.0,0.0,2.0, | 
+267,Suhani  and Sophia T,qm49,blue,3,3373,true,,0.0,0.0,,None, | ,2M|5M|5H|6Lcube|8M,0.5, | struggled to reach high cube nodes| intakes cubes from ground,Engage,Dock,17.65, | ,0.0,0.5,0.0,0.0,3.5, | 
+268,Shashwat and Adrian Sun,qm49,red,2,612,true,5Lcube,0.0,1.0,Engage,Engage, | ,2Lcone|4Lcube|5H,1.0, | ,Engage,Engage,5.5, | ,0.0,0.0,0.0,0.0,1.0, | Robot moved very slow
+269,Amogh and Aran,qm49,red,,2377,true,2H,0.0,1.0,,None, | ,1Lcube|4Lcone|6H,1.0, | ,,None,, | ,0.0,0.0,0.0,0.0,2.0, | 
+270,alexander,qm49,red,3,4472,true,8H|9H,0.0,1.0,,None,,1H|3H|4H|7Lcube|7H,0.0,,Engage,Engage,,Double Engage,0.0,0.0,0.0,0.0,4.0,
+271,Sophia T and Suhani,qm5,blue,3,611,true,8H,0.0,1.0,,None, | ,2M|2H,0.0,struggled to pick up cones from the single substation | Missed 5 intake attempts,Engage,Engage,5.7, | Fast dock and engage,0.0,0.0,10.0,1.0,2.0, | 
+272,Owen,qm5,blue,3,1999,false,,0.0,0.0,,,,1H|2H|3H,1.0,,Engage,Dock,4,,1.0,0.0,20.0,1.0,4.0,
+273,Rachel and Blen,qm5,blue,,2421,true,2Lcube,0.5,1.0,,, | ,6Lcube|7Lcube|8Lcube,0.0, | struggled with picking up cubes from ground ,Engage,Engage,2.5, | ,0.0,0.0,0.0,0.0,2.0, | slow 
+274,sarah and Saragha,qm5,blue,,3136,true,6H,0.0,1.0,Engage,Engage, | ,4H,0.5, | ,,,, | ,1.0,0.0,0.0,0.0,2.0,intake from ground takes long to lineup | Slow
+275,alexander,qm5,red,3,1599,true,5H,0.0,1.0,Engage,Engage,,3H|6H|7Lcone|7H,1.0,7H missed once| got pushed into 7L,Engage,Engage,7 seconds,Two robots engaged,0.0,0.0,0.0,0.0,5.0,Very smooth and quick driving. Time to alignment could be better. 
+276,Shashwat and Adrian Sun,qm5,red,2,2363,true,1Lcone|2Lcone,1.0,1.0,,None, | ,1H|2H|3Lcone|4Lcube|4H|5Lcube|6Lcube|8Lcube|9H,0.0, | ,Engage,Engage,2.55, | ,0.0,0.0,0.0,0.0,4.0, | Drove well but speed is kinda slow
+277,aran and Amogh,qm5,red,,7770,false,,0.0,1.0,,, | ,7M|9Lcube,0.0, | ,,None,, | ,0.0,0.5,50.0,1.0,1.5, | 
+278,saragha and sarah,qm50,blue,2,346,false,8Lcube|8H,0.0,1.0,,None, |  |  | ,1Lcube|2H|5Lcube|6Lcube|7Lcube|8Lcube,0.0, |  |  | ,Engage,Engage,, |  |  | ,0.0,0.0,0.0,0.0,0.0,Fast |  | Fast | 
+279,suhani and sophia,qm50,blue,3,384,true,5H,0.0,1.0,Engage,Engage, |  |  | ,3H|4M|4H|6M|6H,0.0, | can quickly intake cones from double substation| pushed opposing alliance robot into own community |  | can quickly intake cones from double substation| pushed opposing alliance robot into own community,,None,, |  |  | ,0.0,0.0,30.0,1.5,4.5, |  |  | 
+280,Rachel and blen,qm50,blue,,1111,true,1H,0.0,1.0,,None, |  |  | ,2Lcone|4Lcone|7H|9H,2.0, |  |  | ,Engage,Engage,8.200000000000001, |  |  | ,0.0,0.0,0.0,0.0,2.0, |  |  | 
+281,Adrian and shashwat,qm50,red,2,836,true,1M,0.5,1.0,Engage,Engage, |  |  | ,2Lcube|2M|4M|4H|5H|6H|7H|8H,0.0, |  |  | ,Engage,Dock,1.8500000000000003, |  |  | ,0.0,0.0,0.0,0.0,4.0, |  |  | 
+282,Alexander and owen,qm50,red,3,5338,true,9H,0.0,0.0,,None, |  |  | ,1Lcone|1H|2H|3H|4Lcube,0.5, |  |  | ,Engage,Engage,,Attempted triple engage |  | Attempted triple engage | ,0.0,0.0,10.0,1.0,3.0, |  |  | 
+283,aran and amogh,qm50,red,,5587,true,5Lcone,0.25,0.0,,None, |  | ,,0.0,Defense | Only did defense | Only did defense,Engage,Engage,, |  | ,0.0,0.0,100.0,4.0,4.0, |  | 
+284,Eckart and Neel,qm51,blue,,888,false,8H,0.0,1.0,,None,Picks up cube | ,1Lcone|5H|6Lcone|9H,0.5,Struggles to get cone from double substation | ,,Park,, | ,0.0,0.0,0.0,0.0,1.5, | 
+285,Hannah  and Olivia,qm51,blue,2,2421,true,,1.0,1.0,,, | ,2H|6Lcone|7H,1.0, | ,Engage,Engage,, | ,0.0,0.5,0.0,0.0,1.5, | 
+286,Nicole and Sri,qm51,blue,3,5804,true,4H,0.0,1.0,Engage,Engage, | ,1H|2H|3Lcube|3H|4Lcube|5Lcube|6H|8Lcube,0.0, | ,Engage,Engage,, | ,0.0,0.5,0.0,0.0,5.0, | 
+287,Chris and Owen and darren,qm51,red,3,116,true,9H,0.0,1.0,,None, |  | ,3Lcube|3H|4H|5H|6H,0.3333333333333333, |  | ,Engage,Engage,, |  | triple engage,0.0,0.0,13.333333333333334,0.3333333333333333,1.3333333333333333, |  | 
+288,Sayan and Arav,qm51,red,2,2537,false,,0.0,0.0,,,No auto | ,2H,1.0,Gripper weird (fumbled grabbing and placing) | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.5, | 
+289,Rithvik and Sydney,qm51,red,,3136,true,7Lcone,0.5,0.0,Engage,Engage, | ,3Lcube|4Lcube|5Lcube,1.0, | Always drops cargo when going for mid or high - loses cargo and doesnt realize,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+290,Hannah  and Olivia,qm52,blue,2,1418,true,6H,0.0,1.0,Engage,Engage, | ,1H|2H|5H|8H,0.0,lost sponsorship panel on field  | ,Engage,Engage,6.65, | ,0.0,0.5,0.0,0.0,0.0, | 
+291,Eckart and Neel,qm52,blue,,4456,false,,0.0,0.0,,None,Forgot to do  | ,3H|4H|7H,0.0, | ,,Park,, | ,0.0,0.5,0.0,0.0,2.0,Struggles lining up | 
+292,Sri and Nicole,qm52,blue,3,9072,true,,0.0,1.0,,, | ,1Lcube|2Lcube,1.0, | ,Engage,Engage,, | ,0.0,0.0,20.0,1.0,1.5, | 
+293,darren and Chris,qm52,red,3,620,true,,0.5,1.0,Engage,Engage, | ,2Lcube|3Lcone,0.0, | ,Engage,None,, | ,0.0,0.0,10.0,0.0,1.0, | 
+294,Sayan and Arav,qm52,red,2,1731,false,1Lcube|1H|2H,0.0,1.0,,None, | ,2H|3H|4H|5H|6Lcube|6H|7H|9H,0.0,W high | ,,None,, | ,0.0,0.0,0.0,0.0,4.0, | 
+295,Sydney and Rithvik,qm52,red,,6326,true,9Lcone,0.0,1.0,,None, | ,7Lcube|8Lcube|8H,0.0, | ,Engage,None,,Fell over while attempting triple engage  | tipped over at charge station,1.0,0.0,0.0,0.0,1.0, | 
+296,Hannah and Olivia,qm53,blue,2,422,true,8H|9H,0.0,1.0,,, | ,3M|3H|4H|5H|6M|6H|7H,0.0,got themselves out of beach  | got stuck on charging station for a little ,,None,, | ,0.0,0.0,0.0,0.0,4.5, | 
+297,Nicole and Sri,qm53,blue,3,1895,true,1H,0.0,1.0,,, | ,1Lcube|2H|3Lcone,2.5, | ,Engage,Engage,, | ,0.0,0.5,0.0,0.0,0.0, | 
+298,Neel and Eckart,qm53,blue,,8230,true,4Lcube,0.0,1.0,Engage,Engage, | ,7Lcube|9Lcube,0.5, | Classic koibots strat,Engage,Engage,, | Balanced right at the end,0.0,0.0,0.0,0.0,4.0, | 
+299,Rithvik and Sydney,qm53,red,,611,true,2H,0.0,1.0,,None, | ,7H,0.0, | ,,None,, | ,1.0,0.0,0.0,0.0,2.5, | 
+300,Sayan and Arav,qm53,red,2,686,true,8H,0.5,1.0,,None, | ,1H|3H|4Lcone|4H|5H|9H,1.0, | ,,None,, | ,0.0,0.0,0.0,0.0,4.5, | 
+301,darren and Chris,qm53,red,3,1086,true,2H,0.0,1.0,,, | ,1Lcone|1M|2Lcube|3Lcone|3M,1.5, | ,,None,, | ,0.0,0.0,0.0,0.0,1.0, | 
+302,Nicole and Sri,qm54,blue,3,4541,true,5H,0.0,0.0,Engage,Engage, | ,1Lcone|1H|2Lcone|2H,1.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,1.5, | 
+303,Hannah and Olivia,qm54,blue,2,5549,true,,0.5,1.0,,,didnt see if they scored  | did not let go of cone ,1M|6M|7M,0.0, | dropped cone ,,None,,not sure if they disabled or just parked at the end  | ,1.0,0.0,0.0,0.0,0.5, | 
+304,Neel and Eckart,qm54,blue,,8592,true,7H|8M,0.0,1.0,,None, | ,3H|4H|6H|7Lcube|8H|9M|9H,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,5.0, | 
+305,Sayan and Arav,qm54,red,2,977,false,2M,0.0,1.0,,None, | ,2Lcube|3Lcone|7Lcube,1.0,Put a cube onto the metal low section dividers | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,1.5,Mostly low scoring| some mid | 
+306,Rithvik and Sydney,qm54,red,,1908,true,5H,0.0,0.0,Engage,Engage, | ,1H|2Lcube|3Lcube,0.5, | ,Engage,Park,, | ,0.0,0.5,0.0,0.0,2.0, | 
+307,darren and Chris,qm54,red,3,9033,true,8H,0.0,1.0,,, | ,1H|2H|3H,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,0.5, | 
+308,Neel and Eckart,qm55,blue,,2363,true,7Lcone|8Lcone|9Lcone,0.0,1.0,,None, | ,1Lcube|1H|2Lcube|3Lcube|6H|7H|8H,0.0, | ,,None,, | ,0.0,0.0,0.0,0.0,4.5, | 
+309,Nicole and Sri,qm55,blue,3,6802,true,5H,0.0,0.0,Engage,Engage, | ,3H|4Lcone|6Lcone|9H,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+310,Hannah and Olivia,qm55,blue,2,6863,true,2H,0.0,1.0,,, | ,,0.0, | intake broke,Engage,Engage,11.350000000000001, | ,0.0,0.0,90.0,3.5,1.5, | 
+311,Sayan and Arav,qm55,red,2,122,true,2H,0.0,1.0,,, | Failed two game piece auto,2M|6Lcube,0.0, | ,Engage,Engage,,Fell off at end | ,0.0,0.5,0.0,0.0,3.0, | 
+312,Rithvik and Sydney,qm55,red,,1629,true,5H,0.0,1.0,Engage,Engage, | ,7H|8H|9M,0.0, | ,Engage,Engage,,other two teammates fell off charge station | ,0.0,0.0,20.0,1.0,3.0, | Bad against defense 
+313,darren and Chris,qm55,red,3,5724,true,9H,0.0,1.0,,None, | ,1H|3Lcone|3H|4H|6H,0.0, | ,Engage,None,,tipped when trying to engage | ,0.0,0.5,0.0,0.0,0.0, | 
+314,sarah and Saragha,qm6,blue,2,401,true,8H|9H,0.5,1.0,,None,missed cone pickup | ,2Lcube|2M|3H|4M|6M|6H|7Lcube|7M|7H,0.0, | ,,Park,, | ,0.0,0.0,0.0,0.0,4.0, | 
+315,Rachel and Blen Shiferaw,qm6,blue,,5549,false,,0.0,1.0,,, | ,5Lcube|5M|5H|8Lcube|8M,0.0, | ,Engage,Engage,5.1, | ,0.0,0.0,0.0,0.0,2.5, | 
+316,Suhani and Sophia T,qm6,blue,3,5804,false,4H,0.0,1.0,Engage,Engage, | ,1M|1H|2Lcube|3Lcube|3M|4Lcube|6Lcube|9Lcube,0.0,Able to move cube from one hybrid node to another | mostly picked up cubes from ground| scored low,Engage,Engage,,Fast dock and engage | ,0.0,0.0,0.0,0.0,4.5, | 
+317,alexander and owen,qm6,red,3,2028,true,9H,0.0,1.0,,None, | ,2H|3H,0.0,Moved 3L to 2HStruggles to pick up cubes | ,Engage,Engage,,Very quick at engaging | ,0.0,0.0,10.0,0.5,4.0,Smooth driving and fast alignments | 
+318,Shashwat  and Adrian Sun,qm6,red,2,2199,true,7Lcone,0.0,0.0,Engage,Engage, | ,1Lcone|7H|8Lcone|9Lcone,1.0, | ,,None,, | ,0.0,0.0,0.0,0.0,3.5, | 
+319,Aran and Amogh,qm6,red,,5338,true,1H,0.0,1.0,,None, | ,5H|8M|8H,1.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+320,Rachel and Blen,qm7,blue,,1086,true,,1.0,0.0,Engage,Dock, | ,8M|9M,1.0, | ,Engage,Engage,, | struggled to intake cubes from single substation ,0.0,0.5,0.0,0.0,1.5,consistently drops pieces when intaking | intake was very faulty overall struggled to align at substations 
+321,Suhani and Sophia T,qm7,blue,3,1908,false,9H,0.0,1.0,,None, | ,3H|4Lcone|5H|6H|8H,1.0, | ,,None,, | ,0.0,0.5,0.0,0.0,2.0, | 
+322,sarah and Saragha,qm7,blue,2,4541,true,,1.0,1.0,,None, | ,1Lcone|1H|3Lcone|4Lcone|4H|7Lcube|7H,1.0, | ,Engage,Engage,1.7, | ,0.0,0.0,0.0,0.0,1.5, | 
+323,aran and Amogh,qm7,red,,384,true,8H,0.0,1.0,,, | ,4H|6M|6H|8M|9M|9H,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,4.0, | 
+324,Shashwat and Adrian Sun,qm7,red,2,614,true,8H,0.0,1.0,,None, | ,4Lcube|6Lcube|7Lcube|8Lcube|9Lcube,0.0, | Only did bottom cubes,Engage,Engage,7.949999999999999, | ,0.0,0.0,0.0,0.0,2.0, | 
+325,alexander and Owen,qm7,red,3,1731,true,1H|2H,0.5,1.0,,None, | Really good,1M|2M|3M|3H|4H|6M,0.0,Very fast cycles | Really good intake and out take it can also take a lot of hits,Engage,Engage,,Triple engage  | Good,0.0,0.0,20.0,2.0,5.0,Very rapid cycles| quick alignments| generally a very good offensive pick | They were really good at driving and were fast and light
+326,Saragha and sarah,qm8,blue,2,449,false,9H,0.0,0.0,,None,Had two cubes insude | two cubes got stuck during their auto,1M|4H|6M|6H|7H|8M|8H,0.0, | ,,Park,, | ,0.0,0.0,0.0,0.0,4.0, | 
+327,Sophia T and Suhani,qm8,blue,3,1629,true,5H,0.0,1.0,Engage,Engage, | ,1H|3M|5Lcone|7Lcube,0.0, | Knocked off middle cube,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+328,Rachel and Blen Shiferaw,qm8,blue,,3373,true,2H,0.5,1.0,,, | ,2Lcube|2M|3Lcube|5M,0.5, | ,Engage,Engage,5.699999999999999, | ,0.0,0.5,0.0,0.0,2.0, | takes a long time to intake from ground 
+329,Adrian Sun and Shashwat,qm8,red,2,2068,false,4H,0.0,1.0,Engage,Engage, | ,6H,0.5, | ,Engage,Engage,12.9, | ,0.0,0.0,0.0,0.0,1.0, | 
+330,alexander and Owen,qm8,red,3,8592,true,6H,0.0,1.0,Engage,Engage, | ,1Lcube|1H|2H|3H|4Lcone|4H|9H,1.0,4L fell from 4H1L and 9L were pushed in by the robot | Did good with cones,,None,, | They messed around for a while,0.0,0.0,10.0,1.0,1.0, | Bad at positioning
+331,Amgoh and Aran,qm8,red,,9072,true,,0.5,0.0,,, | ,,0.0, | Defense,Engage,Engage,, | ,0.0,1.0,70.0,1.0,1.0, | 
+332,Suhani,qm9,blue,3,422,true,9H,0.0,1.0,,None,Attempted 3 piece auto but missed 2,1H|2Lcone|2M|3H|4H,1.0,,Engage,Engage,9.7,,0.0,0.0,0.0,0.0,4.0,
+333,Saragha and sarah,qm9,blue,2,3939,false,2H,0.0,1.0,,, | missed one cube pickup,2Lcube|3Lcube|4Lcone|5Lcube|6Lcube|7Lcube|8H,0.0, | ,,Park,, | ,0.0,1.0,0.0,0.0,1.5, | 
+334,Rachel and Blen Shiferaw,qm9,blue,,6802,true,5H,0.0,1.0,Engage,Engage, | ,6H|7H,1.0, | spent a lot of time trying to align at double substation,Engage,Engage,3.0, | ,0.0,0.5,0.0,0.0,1.0,intake at double sub is very slow | 
+335,Shashwat and Adrian Sun,qm9,red,2,612,true,8Lcube,0.0,0.0,,None, | ,,0.0, | ,Engage,Engage,9.05, | ,0.0,0.0,90.0,2.5,1.0, | Defended whole game| but robot was very slow
+336,aran and Amogh,qm9,red,,1895,true,5Lcone,0.0,1.0,Engage,None, | ,8Lcone,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,1.0, | 
+337,alexander and owen,qm9,red,3,8726,true,2H,0.0,1.0,,None, | ,1Lcone|1H|3H|4Lcube|5Lcube,0.5, | Bad at aligning and intake and gripper was bad,Engage,Engage,,Triple dock and engage | ,0.0,0.5,0.0,0.0,1.5, | Really bad a defense and gets tiped a lot
+338,Sayan,qm56,red,2,3939,true,8H,0.0,true,,,,5Lcube|5M|6Lcube|7Lcube|8M|8H,2.0,Misses are bc they throw cubes at short ra gr,,None,,,false,false,0.0,0.0,0.0,
+339,darren,qm56,red,3,1599,true,2H,0.0,true,,,,1H|2Lcone|3H|4H|6H|7H,0.0,,Engage,Engage,2,,false,false,0.0,0.0,0.0,
+340,Neel,qm56,blue,,8622,true,1Lcube,0.0,true,,None,,2H|9Lcube,0.0,,,Park,,,false,false,0.0,0.0,3.0,
+341,Rithvik,qm56,red,,623,true,4M,0.0,true,Engage,Engage,,1M|3M|6M|7Lcube|7M|8Lcone|9M,0.0,,Engage,Engage,2.9,,false,false,0.0,0.0,4.0,
+342,Nicole,qm56,blue,3,2106,true,9H,0.0,true,,,,1H|3H|4H|7H,0.0,,Engage,Engage,14.8,,false,false,0.0,0.0,5.0,
+343,Sydney,qm56,red,,623,true,4M,0.0,true,Engage,Engage,,1M|3M|6Lcube|6M|7M|8Lcone|9M,0.0,,Engage,Engage,6,,false,false,0.0,0.0,4.0,
+344,Sri,qm56,blue,3,2106,true,9H,0.0,true,,,,1H|3H|4H|7H,0.0,,Engage,Engage,15,,false,true,0.0,0.0,4.0,
+345,Eckart,qm56,blue,,8622,true,1Lcube,0.0,false,,None,,9Lcube,0.0,,,Park,,,false,false,20.0,1.0,1.0,
+346,Hannah,qm56,blue,2,3373,true,5H,0.0,true,Engage,Engage,,8M|8H,0.0,lost an orange paddle ,Engage,Engage,,10.4,false,false,0.0,0.0,2.0,
+347,Arav,qm56,red,3,1599,true,2H,0.0,true,,None,,1H|3H|4H|6H,0.0,,Engage,Engage,,,false,false,0.0,0.0,4.0,
+348,Olivia,qm56,blue,2,3373,true,5H,0.0,false,Engage,Engage,,2M|2H|8H,0.0,lost a part of their intake and can only pick up cubes from ground ,Engage,Engage,12.3,,false,false,20.0,2.0,2.0,
+349,Chris,qm56,blue,3,1588,true,1H,0.0,false,,None,,1M|2H|3H|6H|7H,0.0,,Engage,Engage,10,,false,false,0.0,0.0,0.0,
+350,Sayan,qm57,,2,1727,true,1H|3H,0.0,true,,,Tipped over while going over charge station ,4H|6H,0.0,,,,,None bc topple,true,false,0.0,0.0,4.0,
+351,darren,qm57,,3,1262,true,,1.0,false,,,,2H|3Lcube|5Lcube|8H,1.0,,Engage,Engage,6,,false,false,0.0,0.0,0.0,
+352,Eckart,qm57,,,8726,true,2H,0.0,true,,None,,6H,0.0,,Engage,Engage,3.5,,false,false,0.0,0.0,2.0,
+353,Chris,qm57,,3,1262,true,5H,1.0,false,,,,2H|8H,0.0,,Engage,Engage,10,,false,false,0.0,0.0,0.0,
+354,Neel,qm57,,,8726,true,2H,0.0,true,,None,,6H|8Lcube,3.0,,Engage,Engage,2,,false,false,0.0,0.0,2.0,
+355,Hannah,qm57,,2,5338,true,9H,0.0,true,,,,1H|3H|4H|7H,0.0,,Engage,Engage,11.4,,false,false,0.0,0.0,0.0,
+356,Nicole,qm57,,3,614,true,5H,0.0,true,Engage,Engage,,4Lcube|5Lcube|6Lcube|8H,0.0,,Engage,Engage,14.3,,false,true,0.0,0.0,0.0,Popped a cube and got a foul probs
+357,Sydney,qm57,,,836,true,9M,1.0,true,,None,,1M|6Lcube|7M|7H|8M|9H,0.0,,Engage,Engage,8,,false,false,0.0,0.0,4.0,
+358,Arav,qm57,,2,1727,false,1H|3H,0.0,true,Engage,Engage,,4H|5H|6H,0.0,They tipped over on charge station,,None,,,false,true,0.0,0.0,4.0,
+359,Sri,qm57,,3,614,true,1H|5H,0.0,false,Engage,Engage,,4Lcube|6Lcube|8H,0.0,,Engage,Engage,8,,false,false,40.0,2.0,4.0,
+360,Rithvik,qm57,,,836,true,9M,1.0,true,,,,1M|7Lcube|7M|7H|8M|9H,1.0,,Engage,Engage,3.2,,false,false,0.0,0.0,4.0,
+361,Olivia ,qm57,,2,5338,true,1H,0.0,true,,,,3H|6H|7H|9H,0.0,dropped cone,Engage,Engage,15.5,,false,false,0.0,0.0,0.0,
+362,Rithvik,qm58,,,4099,true,8H|9H,0.0,true,,,,6H|7Lcube|7H|8Lcube|8H|9Lcube|9M,0.0,,Engage,Engage,3,,false,false,0.0,0.0,5.0,
+363,Neel,qm58,,,449,true,9Lcone,0.0,true,,None,,2H|4M|5H|6H|7H|8H|9H,1.0,,Engage,Park,,,false,false,0.0,0.0,3.0,
+364,darren,qm58,,3,2028,true,4H,0.0,false,,,,4Lcube|5Lcube,0.0,,Engage,Engage,8,,false,true,0.0,0.0,0.0,
+365,Hannah,qm58,,2,612,false,5Lcube,0.0,false,Engage,Engage,,4M|5M|6M,0.0,,Engage,Engage,7.8,,false,false,0.0,0.0,0.0,
+366,Arav,qm58,,2,1111,true,1H,0.0,true,Engage,Engage,,1Lcone|2Lcone|3H|4H|5Lcone,0.0,,Engage,Engage,,,false,false,0.0,0.0,4.0,
+367,Chris,qm58,,3,2028,false,4H,0.0,false,,,,2Lcone|5Lcube,0.0,,Engage,Engage,15,,false,false,0.0,0.0,0.0,
+368,Sydney,qm58,,,4099,true,8H|9H,0.0,true,,None,,5H|6H|7Lcube|7H|8Lcube|9Lcube|9M,0.0,,Engage,Engage,8,,false,false,0.0,0.0,4.0,
+369,Nicole,qm58,,3,5115,true,1H,0.0,false,,,,3H|4M|4H|7H|9Lcone,0.0,,Engage,Engage,2,,false,true,0.0,0.0,2.0,
+370,Sri,qm58,,3,5115,true,1H,0.0,false,,,,3H|4H,0.0,,Engage,Dock,3,,false,true,0.0,0.0,0.0,
+371,Eckart,qm58,,,449,true,9Lcone,0.0,true,,,,2H|5H|6H|7H|8H|9H,0.0,4099 knocked a cone out of them when hitting them,,Park,,,false,false,0.0,0.0,4.0,
+372,Olivia,qm58,,2,612,true,5Lcube,0.0,false,Engage,Engage,,4Lcone|4M|5M|6Lcube|6M,0.0,,Engage,Engage,10.6,,false,false,20.0,2.0,2.0,
+373,Sayan,qm58,,2,1111,true,1H,0.0,true,Engage,Engage,,1Lcone|2Lcone|2H|3Lcone|4H|6Lcone,0.0,,,None,,,false,false,0.0,0.0,4.0,
+374,Chris,qm59,,3,2377,true,2H,1.0,true,,,,,1.0,,,,,,false,true,0.0,0.0,0.0,Fell over
+375,darren,qm59,,3,2377,true,2H,1.0,true,,,,1Lcube|4Lcone,1.0,,,,,,true,true,0.0,0.0,0.0,
+376,Neel,qm59,,,401,true,9H,0.0,true,,None,,1H|2H|5M|6H|7M|7H|8H|9H,0.0,,,None,,,false,false,0.0,0.0,5.0,
+377,Rithvik,qm59,,,384,true,5H,0.0,true,Engage,Engage,,4H|6H|7H|8H|9H,0.0,,Engage,Engage,11,,false,false,0.0,0.0,4.0,
+378,Sydney,qm59,,,384,true,5H,0.0,true,Engage,Engage,,4H|6H|7H|8H|9H,0.0,,Engage,Engage,6,,false,false,0.0,0.0,4.0,
+379,Nicole,qm59,,3,5587,true,,1.0,true,,,,1Lcube|2Lcone,0.0,,Engage,Engage,2.4,,false,false,0.0,0.0,2.0,Intake broke went on charging station early
+380,Arav,qm59,,2,7770,true,5Lcube|6Lcube|8M,0.0,true,,None,,8Lcube,1.0,,Engage,Engage,7,,false,false,0.0,0.0,0.0,
+381,Hannah,qm59,,2,401,true,9H,0.0,true,,,,1H|2H|3M|3H|4H|5H|6H|7H|8H,0.0,,,Dock,,,false,false,0.0,0.0,5.0,
+382,Sri,qm59,,3,5587,true,,1.0,true,,,,1Lcube|2Lcone,0.0,intake broke and they went to charge station with 60 seconds left,Engage,Dock,,,false,false,0.0,0.0,0.0,
+383,Olivia,qm59,,2,401,true,1H,0.0,true,,,,2H|3H|4M|4H|5H|6H|7H|8H|9H,0.0,,Engage,Dock,0.8,,false,false,0.0,0.0,4.0,
