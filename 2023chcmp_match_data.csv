@@ -438,27 +438,32 @@
 436,Sydney,qm74,red,,1908,true,1H,0.0,1.0,,None,,3Lcone|3H|4H,0.0,Reckless driving and tippy ,Engage,Engage,5,,0.0,0.0,0.0,0.0,2.0,
 437,Chris and darren,qm74,red,3,3136,true,6H,0.0,1.0,Engage,Engage, | ,2Lcube|2H|5H|7H|8Lcube,0.0, | ,,None,, | ,0.0,0.0,0.0,0.0,2.0, | 
 438,Sayan and Arav,qm74,red,2,9072,true,8H,0.0,1.0,,None, | ,1Lcube|7Lcube|9Lcube,0.0,Stopped using gripper (broke?) but fast at scoring low cubes ngl | ,Engage,Engage,, | They do buddy climb,0.0,0.0,10.0,0.0,0.5, | 
-439,Saragha and sarah,qm8,blue,2,449,false,9H,0.0,0.0,,None,Had two cubes insude | two cubes got stuck during their auto,1M|4H|6M|6H|7H|8M|8H,0.0, | ,,Park,, | ,0.0,0.0,0.0,0.0,4.0, | 
-440,Sophia T and Suhani,qm8,blue,3,1629,true,5H,0.0,1.0,Engage,Engage, | ,1H|3M|5Lcone|7Lcube,0.0, | Knocked off middle cube,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
-441,Rachel and Blen Shiferaw,qm8,blue,,3373,true,2H,0.5,1.0,,, | ,2Lcube|2M|3Lcube|5M,0.5, | ,Engage,Engage,5.699999999999999, | ,0.0,0.5,0.0,0.0,2.0, | takes a long time to intake from ground 
-442,Adrian Sun and Shashwat,qm8,red,2,2068,false,4H,0.0,1.0,Engage,Engage, | ,6H,0.5, | ,Engage,Engage,12.9, | ,0.0,0.0,0.0,0.0,1.0, | 
-443,alexander and Owen,qm8,red,3,8592,true,6H,0.0,1.0,Engage,Engage, | ,1Lcube|1H|2H|3H|4Lcone|4H|9H,1.0,4L fell from 4H1L and 9L were pushed in by the robot | Did good with cones,,None,, | They messed around for a while,0.0,0.0,10.0,1.0,1.0, | Bad at positioning
-444,Amgoh and Aran,qm8,red,,9072,true,,0.5,0.0,,, | ,,0.0, | Defense,Engage,Engage,, | ,0.0,1.0,70.0,1.0,1.0, | 
-445,Suhani,qm9,blue,3,422,true,9H,0.0,1.0,,None,Attempted 3 piece auto but missed 2,1H|2Lcone|2M|3H|4H,1.0,,Engage,Engage,9.7,,0.0,0.0,0.0,0.0,4.0,
-446,Saragha and sarah,qm9,blue,2,3939,false,2H,0.0,1.0,,, | missed one cube pickup,2Lcube|3Lcube|4Lcone|5Lcube|6Lcube|7Lcube|8H,0.0, | ,,Park,, | ,0.0,1.0,0.0,0.0,1.5, | 
-447,Rachel and Blen Shiferaw,qm9,blue,,6802,true,5H,0.0,1.0,Engage,Engage, | ,6H|7H,1.0, | spent a lot of time trying to align at double substation,Engage,Engage,3.0, | ,0.0,0.5,0.0,0.0,1.0,intake at double sub is very slow | 
-448,Shashwat and Adrian Sun,qm9,red,2,612,true,8Lcube,0.0,0.0,,None, | ,,0.0, | ,Engage,Engage,9.05, | ,0.0,0.0,90.0,2.5,1.0, | Defended whole game| but robot was very slow
-449,aran and Amogh,qm9,red,,1895,true,5Lcone,0.0,1.0,Engage,None, | ,8Lcone,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,1.0, | 
-450,alexander and owen,qm9,red,3,8726,true,2H,0.0,1.0,,None, | ,1Lcone|1H|3H|4Lcube|5Lcube,0.5, | Bad at aligning and intake and gripper was bad,Engage,Engage,,Triple dock and engage | ,0.0,0.5,0.0,0.0,1.5, | Really bad a defense and gets tiped a lot
-451,Sayan,qm75,,2,3939,false,8H,0.0,true,,,,7Lcube|8Lcube|8M|9Lcube,0.0,,,None,,,false,false,0.0,0.0,0.0,
-452,Eckart,qm75,,,1727,true,7Lcone|9H,0.0,true,,None,,5M|5H|6Lcube|7M|7H|8Lcube|8M|8H|9M,0.0,,Engage,Engage,3.2,,false,false,0.0,0.0,5.0,
-453,Chris,qm75,,3,612,true,5Lcube,0.0,true,,,,7M|9M,0.0,,Engage,Engage,5,,false,false,0.0,0.0,0.0,
-454,aarav,qm75,,3,612,false,5Lcube,0.0,false,,None,,7M|9M,1.0,missed intakes for cones often ,Engage,Engage,,,false,false,0.0,0.0,0.0,
-455,Rithvik,qm75,,,384,true,2H,0.0,true,,,,1H|3H|4H|5H|6H|7H|9H,0.0,,Engage,Engage,6.1,,false,false,0.0,0.0,0.0,
-456,Neel,qm75,,,1727,true,3H,0.0,true,,None,,5Lcube|5M|5H|6H|7M|7H|8H|9M,0.0,,Engage,Engage,2,,false,false,0.0,0.0,5.0,
-457,darren,qm75,,3,612,true,5Lcube,0.0,false,,,,7M|9M,0.0,,,,6,,false,false,0.0,0.0,1.0,
-458,Hannah,qm75,,2,8592,true,4H|5Lcube,0.0,true,Engage,Engage,,1M|2Lcube|3M|3H|4M|6M|6H,0.0,,Engage,Engage,2.7,,false,false,0.0,0.0,5.0,
-459,Olivia,qm75,,2,8592,true,4Lcube|6H,0.0,true,Engage,Engage,,4M|4H|6M|7Lcube|7M|7H|9M,0.0,,Engage,Engage,6.5,,false,false,0.0,0.0,5.0,
-460,Sri,qm75,,3,6326,true,1H,0.0,true,,,,1Lcone|2Lcone|2M|2H,1.0,,,Park,,slow movement,false,false,0.0,0.0,4.0,
-461,Sydney,qm75,,,384,false,2H,0.0,true,,None,,1H|3H|4H|5H|6H|7H|9H,0.0,,Engage,Engage,6,,false,false,0.0,0.0,4.0,
-462,Nicole,qm75,,3,6326,true,1H,0.0,true,,,,1Lcone|2M|2H|3Lcone,2.0,,,Park,,,false,false,0.0,0.0,2.0,
+439,Eckart and Neel,qm75,blue,,1727,true,7Lcone|9H,0.0,1.0,,None, | ,5M|5H|6Lcube|7M|7H|8Lcube|8M|8H|9M,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,5.0, | 
+440,Sri and Nicole,qm75,blue,3,6326,true,1H,0.0,1.0,,, | ,1Lcone|2Lcone|2M|2H,1.5, | ,,Park,,slow movement | ,0.0,0.0,0.0,0.0,3.0, | 
+441,Hannah and Olivia,qm75,blue,2,8592,true,4H|5Lcube,0.0,1.0,Engage,Engage, | ,1M|2Lcube|3M|3H|4M|6M|6H,0.0, | ,Engage,Engage,4.6, | ,0.0,0.0,0.0,0.0,5.0, | 
+442,Rithvik and Sydney,qm75,red,,384,true,2H,0.0,1.0,,None, | ,1H|3H|4H|5H|6H|7H|9H,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+443,Chris and aarav and darren,qm75,red,3,612,true,5Lcube,0.0,1.0,,None, |  | ,7M|9M,0.3333333333333333, | missed intakes for cones often  | ,Engage,Engage,, |  | ,0.0,0.0,0.0,0.0,0.3333333333333333, |  | 
+444,Sayan,qm75,red,2,3939,false,8H,0.0,1.0,,,,7Lcube|8Lcube|8M|9Lcube,0.0,,,None,,,0.0,0.0,0.0,0.0,0.0,
+445,Saragha and sarah,qm8,blue,2,449,false,9H,0.0,0.0,,None,Had two cubes insude | two cubes got stuck during their auto,1M|4H|6M|6H|7H|8M|8H,0.0, | ,,Park,, | ,0.0,0.0,0.0,0.0,4.0, | 
+446,Sophia T and Suhani,qm8,blue,3,1629,true,5H,0.0,1.0,Engage,Engage, | ,1H|3M|5Lcone|7Lcube,0.0, | Knocked off middle cube,Engage,Engage,, | ,0.0,0.0,0.0,0.0,2.0, | 
+447,Rachel and Blen Shiferaw,qm8,blue,,3373,true,2H,0.5,1.0,,, | ,2Lcube|2M|3Lcube|5M,0.5, | ,Engage,Engage,5.699999999999999, | ,0.0,0.5,0.0,0.0,2.0, | takes a long time to intake from ground 
+448,Adrian Sun and Shashwat,qm8,red,2,2068,false,4H,0.0,1.0,Engage,Engage, | ,6H,0.5, | ,Engage,Engage,12.9, | ,0.0,0.0,0.0,0.0,1.0, | 
+449,alexander and Owen,qm8,red,3,8592,true,6H,0.0,1.0,Engage,Engage, | ,1Lcube|1H|2H|3H|4Lcone|4H|9H,1.0,4L fell from 4H1L and 9L were pushed in by the robot | Did good with cones,,None,, | They messed around for a while,0.0,0.0,10.0,1.0,1.0, | Bad at positioning
+450,Amgoh and Aran,qm8,red,,9072,true,,0.5,0.0,,, | ,,0.0, | Defense,Engage,Engage,, | ,0.0,1.0,70.0,1.0,1.0, | 
+451,Suhani,qm9,blue,3,422,true,9H,0.0,1.0,,None,Attempted 3 piece auto but missed 2,1H|2Lcone|2M|3H|4H,1.0,,Engage,Engage,9.7,,0.0,0.0,0.0,0.0,4.0,
+452,Saragha and sarah,qm9,blue,2,3939,false,2H,0.0,1.0,,, | missed one cube pickup,2Lcube|3Lcube|4Lcone|5Lcube|6Lcube|7Lcube|8H,0.0, | ,,Park,, | ,0.0,1.0,0.0,0.0,1.5, | 
+453,Rachel and Blen Shiferaw,qm9,blue,,6802,true,5H,0.0,1.0,Engage,Engage, | ,6H|7H,1.0, | spent a lot of time trying to align at double substation,Engage,Engage,3.0, | ,0.0,0.5,0.0,0.0,1.0,intake at double sub is very slow | 
+454,Shashwat and Adrian Sun,qm9,red,2,612,true,8Lcube,0.0,0.0,,None, | ,,0.0, | ,Engage,Engage,9.05, | ,0.0,0.0,90.0,2.5,1.0, | Defended whole game| but robot was very slow
+455,aran and Amogh,qm9,red,,1895,true,5Lcone,0.0,1.0,Engage,None, | ,8Lcone,0.0, | ,Engage,Engage,, | ,0.0,0.0,0.0,0.0,1.0, | 
+456,alexander and owen,qm9,red,3,8726,true,2H,0.0,1.0,,None, | ,1Lcone|1H|3H|4Lcube|5Lcube,0.5, | Bad at aligning and intake and gripper was bad,Engage,Engage,,Triple dock and engage | ,0.0,0.5,0.0,0.0,1.5, | Really bad a defense and gets tiped a lot
+457,Sayan,qm76,,2,5549,true,9H,0.0,false,,None,,,0.0,Disabled at start of teleop,,None,,,true,false,0.0,0.0,2.0,Disable so weird match
+458,aarav,qm76,,3,346,true,2H,0.0,true,,,,1Lcube|2Lcube|4Lcube|7Lcube|8H,1.0,,,None,,issues climbing| other robot moved it down for them,false,false,0.0,0.0,4.0,
+459,Hannah,qm76,,2,611,true,8M|8H,0.0,true,,,,6H|9H,0.0,,Engage,Engage,7.9,,false,false,0.0,0.0,3.0,
+460,Arav,qm76,,2,5549,true,3H,0.0,false,,None,,,0.0,,,None,,,true,false,0.0,0.0,1.0,
+461,Rithvik,qm76,,,4472,true,6H,0.0,true,,Engage,,1H|3H|4H|7H,1.0,,Engage,Dock,2,,false,false,0.0,0.0,0.0,
+462,Sri,qm76,,3,6802,true,1H,0.0,true,,,,2H|3M|3H|7H,0.0,,Engage,Engage,8,,false,false,0.0,0.0,4.0,
+463,Olivia,qm76,,2,611,true,2M|2H,0.0,true,,,,1H|4H,0.0,intake is not good the cones slip off ,Engage,Engage,12.7,,false,false,0.0,0.0,2.0,
+464,Sydney,qm76,,,4472,false,6H,0.0,false,Engage,Engage,,1H|3H|4H|7H,1.0,Some issues lining up to place cones on high ,Engage,Dock,3,,false,false,0.0,0.0,0.0,
+465,Eckart,qm76,,,1599,true,5H,0.0,true,Engage,Engage,,4H|6Lcone|7M|9M,0.0,Difficulty intaking in general,,Park,,Quick call to get another cone into hybrid and park rather than triple engage which was a safe play,false,false,0.0,0.0,4.0,
+466,Nicole,qm76,,3,6802,true,1H,0.0,true,,,,2H|3M|3H|7H,0.0,,Engage,Engage,7.5,,false,false,0.0,0.0,4.0,
+467,darren,qm76,,3,346,true,2H,0.0,true,,,,1Lcube|2Lcube|3Lcube|4Lcube|5Lcube|5H|6Lcube|7Lcube|8H,0.0,,Engage,Park,7,can't climb charge station by themselves,false,false,0.0,0.0,0.0,
