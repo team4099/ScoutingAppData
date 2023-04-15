@@ -25232,49 +25232,6 @@
     "uuid": "13a7b552-7f82-4180-9f89-bbd93da3dca9"
   },
   {
-    "ScoutId": "Arav",
-    "MatchKey": "qm95",
-    "Alliance": "blue",
-    "DriverStation": 2,
-    "TeamNumber": 4472,
-    "Preloaded": "true",
-    "AutoGrid": "9Lcube",
-    "AutoMissed": 0.0,
-    "Mobile": 1.0,
-    "AutoAttemptedCharge": "Engage",
-    "AutoChargingState": "Engage",
-    "AutoNotes": "",
-    "TeleopGrid": "4H|5H|7H|9H",
-    "TeleopMissed": 2.0,
-    "TeleopNotes": "",
-    "EndgameAttemptedCharge": "Engage",
-    "EndgameFinalCharge": "Engage",
-    "EndgameChargeTime": 3,
-    "EndgameNotes": "",
-    "Disable": 0.0,
-    "Tippy": 0.0,
-    "DefenseTime": 0.0,
-    "DefenseRating": 0.0,
-    "DriverRating": 4.0,
-    "RatingNotes": "",
-    "scanRaw": "Arav||95||2|4492|true|9Lcube|0|true|Engage|Engage||4H|5H|7H|9H|2||Engage|Engage|3||false|false|0|0|4|",
-    "AutoCones": [],
-    "AutoCubes": [
-      "Low"
-    ],
-    "TeleopCones": [
-      "High",
-      "High",
-      "High"
-    ],
-    "TeleopCubes": [
-      "High"
-    ],
-    "AttemptedTripleBalance": 0,
-    "SuccessfulTripleBalance": 1,
-    "uuid": "6b0322cf-2590-433d-b3c9-e463a77890cc"
-  },
-  {
     "ScoutId": "Olivia and Hannah",
     "MatchKey": "qm95",
     "Alliance": "blue",
