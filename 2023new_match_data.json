@@ -16411,7 +16411,7 @@
     "TeleopNotes": " | ",
     "EndgameAttemptedCharge": "None",
     "EndgameFinalCharge": "None",
-    "FinalChargeTime": NaN,
+    "FinalChargeTime": "",
     "EndgameNotes": " | ",
     "Disable": 0.0,
     "Tippy": 0.0,
