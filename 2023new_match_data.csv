@@ -258,6 +258,39 @@
 256,Owen,qm68,blue,2,9023,true,5M,0.0,false,None,,,7Lcube|8Lcube|9Lcube,0.0,,Engage,Dock,,,false,false,20.0,1.0,1.0,
 257,sarah,qm68,red,2,6606,true,,0.0,true,None,None,,2Lcube,0.0,,Engage,Dock,5,,false,false,0.0,0.0,1.0,end effector broke and looked like had trouble driving
 258,Suzy,qm68,blue,1,5665,true,2H,0.0,true,None,,,,0.0,,Engage,Engage,19,,false,false,100.0,3.0,0.0,
-259,Chris,68,red,1,3184,true,5H,1.0,true,Engage,Engage,,4M|4H|3H|2H|1H,0.0,,Engage,None,,,false,false,0.0,0.0,0.0,
+259,Chris,qm68,red,1,3184,true,5H,1.0,true,Engage,Engage,,4M|4H|3H|2H|1H,0.0,,Engage,None,,,false,false,0.0,0.0,0.0,
 260,Joshua,qm68,blue,3,2992,true,8H|9H,0.0,true,None,,,1Lcone|2Lcone|3Lcone|3H|7Lcone|7H,3.0,Solid driving and avoiding defense| but very tippy robot wasted a lot of time Highly unreliable scoring methods| intake fails wasted a lot of time,Engage,Engage,5,Engage attempt at 10s,false,true,0.0,0.0,4.0,Good swerving but poor scoring reliability| intake from station is unreliable 
 261,Shashwat,qm68,red,3,3039,false,9H,2.0,true,None,None,,9M|8Lcube|8H|7M|7H|6Lcube|6M|6H|5Lcube|5M,0.0,,Engage,None,,,false,false,0.0,0.0,4.0,
+262,Chris,qm69,red,1,1123,true,9Lcone|8M|8H,0.0,true,None,,,3Lcone|3H|2Lcone|1Lcone|1H,0.0,,Engage,Dock,,,false,false,0.0,0.0,0.0,
+263,Chris,qm70,red,1,857,true,7H|6Lcube,1.0,false,None,,,6M|3M|3H|1M|1H,0.0,,Engage,None,,,true,false,0.0,0.0,0.0,
+264,Chris,qm71,red,1,1816,false,6H,0.0,true,Engage,Engage,,4Lcone|3M|3H|2M|2H|1M,0.0,,Engage,Engage,2,,false,true,0.0,0.0,0.0,
+265,Shashwat,qm69,red,3,7428,false,2H,0.0,false,None,None,,9M|7M|6M|4M,0.0,,Engage,None,,,false,false,0.0,0.0,0.0,
+266,Shashwat,qm70,red,3,2960,false,5H,0.0,true,Engage,Engage,,8H|7H|6H|4M|4H|2H,0.0,,Engage,Park,,Another robot disabled on charge station which is why they couldnt engage,false,false,0.0,0.0,0.0,
+267,Shashwat,qm71,red,3,5553,true,9Lcube,0.0,true,None,None,,9H|7H,0.0,,None,None,,,true,false,0.0,0.0,3.0,
+268,Suzy,qm69,blue,1,4329,true,,1.0,true,None,None,,1M|7Lcube|7M|8Lcone|8M|8H|9Lcube|9M,1.0,,None,None,,,false,false,0.0,0.0,4.0,Intake is slow
+269,Suzy,qm70,blue,1,4112,false,1Lcone,0.0,false,None,None,,,0.0,,Engage,Engage,,,true,false,0.0,0.0,3.0,Battery issues and disable
+270,Suzy,qm71,blue,1,8847,true,,0.0,false,None,,,1Lcube|2Lcube|3Lcube|4Lcube|8Lcube,0.0,,Engage,Engage,,,false,false,20.0,2.0,0.0,Intakes electrical broke
+271,sarah,qm69,red,2,8717,true,5H,0.0,false,Engage,None,slid off,5M|4Lcube|2M|1M|1M,0.0,,Engage,Park,,,false,true,0.0,0.0,2.0,
+272,sarah,qm70,red,2,6817,true,,0.0,false,None,None,,2M,0.0,,None,,,,false,true,100.0,1.0,1.0,they just got pushed around
+273,sarah,qm71,red,2,3478,true,1H,0.0,true,None,,,6M|5M|5H|4M|4H,1.0,,Engage,Engage,4,,false,false,0.0,0.0,3.0,
+274,Owen,qm71,blue,2,955,true,,2.0,false,None,,,3H|4H|5H,0.0,,Engage,Dock,,,false,true,0.0,0.0,1.0,
+275,Owen,qm70,blue,2,8808,true,,1.0,false,None,,,2Lcube|2M|5M|8M,1.0,,Engage,Dock,,,false,false,0.0,0.0,1.0,
+276,Owen,qm69,blue,2,1156,true,,1.0,false,Engage,Dock,,1Lcone|2M|3M|4M|5M|5H,0.0,,Engage,Dock,,,false,false,20.0,1.0,4.0,
+277,Joshua,qm70,blue,3,5172,true,5Lcube,0.0,false,Engage,Engage,,3H|4H,0.0,Intake broke down switched to defense ,Engage,Engage,10,,false,false,80.0,5.0,5.0,Good driving and would be a good teammate to have for defense In picklist
+278,Joshua,qm68,blue,3,2992,true,8H|9H,0.0,true,None,,,1Lcone|2Lcone|3Lcone|3H|7Lcone|7H,3.0,Solid driving and avoiding defense| but very tippy robot wasted a lot of time Highly unreliable scoring methods| intake fails wasted a lot of time,Engage,Engage,5,Engage attempt at 10s,false,true,0.0,0.0,4.0,Good swerving but poor scoring reliability| intake from station is unreliable 
+279,Joshua ,qm69,blue,3,3940,false,2H,0.0,true,None,,,1H|3H|4H|6H|7H|9H,0.0,Very bulky tank driving but respectable cycle rate,Engage,Engage,3,,false,true,0.0,0.0,4.0,Good driving and avoiding defense for a tank driveBy using a swerve they could cycle much faster 
+280,Joshua,qm71,blue,3,9084,true,6H,0.0,true,Engage,Engage,Impressive auto ,1Lcube|1M|1H|2M|2H|3Lcone|3H,1.0,Good driving and opportunistic defense ,None,,,Did not help w endgame,false,false,60.0,4.0,4.0,Good team overall 
+281,Shashwat,qm72,red,3,9030,true,,0.0,false,None,None,,5H,0.0,,Engage,Engage,,,false,false,0.0,0.0,0.0,
+282,Suzy,qm72,blue,1,4069,true,2H,1.0,false,None,None,,6Lcone|7M|8M|8H|9Lcone|9M,0.0,,Engage,Engage,,,false,false,0.0,0.0,0.0,
+283,Chris,qm72,red,1,4522,true,,0.0,false,None,,,4M|3M|3H|2H|1M|1H,0.0,,Engage,Engage,,,false,false,0.0,0.0,0.0,
+284,Owen,qm72,blue,2,4099,true,9H,0.0,false,None,,,2Lcone|6H|7H,1.0,,None,,,,false,false,80.0,4.0,0.0,
+285,Joshua,qm72,blue,3,4909,true,5H,0.0,true,Engage,Engage,,1Lcube|1M|1H|2Lcube|2M|3M|3H|4Lcube,0.0,,Engage,Engage,5,,false,false,20.0,3.0,4.0,Good driving 
+286,sarah,qm72,red,2,1538,true,9H|8Lcone|8H,0.0,true,None,None,,8H|7Lcone|7M|7H|6H|4H,1.0,,Engage,Engage,6,,false,false,0.0,0.0,5.0,
+287,Blen,qm2,blue,2,4909,true,5H,0.0,true,Engage,Engage,,2Lcone|4Lcone|5Lcone|7M,0.0,,Engage,Engage,,,true,false,0.0,0.0,0.0,
+288,Ryan,qm17,red,2,3184,false,4H,0.0,false,Engage,Dock,,9M|9H|7H|6Lcone|6M|6H|3M,0.0,,Engage,Engage,,,false,false,0.0,0.0,5.0,
+289,Shashwat,qm73,red,3,3932,false,6H,0.0,true,None,None,,5Lcube|4Lcube|4H|3M,0.0,,Engage,None,,,false,false,0.0,0.0,0.0,
+290,Rachel,qm73,red,2,2642,true,8H|7H,0.0,true,None,None,,9M|9H|8M|7Lcone|7M|6M,0.0,,None,Dock,,,false,false,0.0,0.0,0.0,
+291,Owen,qm73,blue,2,5135,true,2H,0.0,false,None,,,1H|2Lcone|3H|4H|6H|7H|9H,0.0,,None,,,,false,false,0.0,0.0,4.0,
+292,Suzy,qm73,blue,1,8016,false,8H,0.0,true,None,None,,1M|2M|3M|5H,0.0,,Engage,Dock,,,false,false,0.0,0.0,0.0,
+293,Chris,qm73,red,1,8592,true,3H|2H,0.0,true,None,,,6H|5M|5H|3M|2M|1Lcone|1M|1M|1H,1.0,,Engage,None,,,false,false,0.0,0.0,0.0,
+294,Ryan,qm17,red,1,2992,true,9Lcube,0.0,true,None,None,,4M|1Lcone,0.0,,Engage,Engage,,,false,false,0.0,0.0,4.0,
