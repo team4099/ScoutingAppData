@@ -326,7 +326,7 @@
 324,Arav,qm78,blue,2,857,true,1H|2H,1.0,1.0,None,None,,3M|3H|5Lcone|6M|6H,0.0,,Engage,Engage,5,,0.0,0.0,0.0,0.0,4.0,
 325,Amogh,qm78,blue,3,3161,true,8M|9M,0.0,0.0,None,,,1Lcube|1M|2M|5M|5H|8H,0.0,,Engage,Engage,,,0.0,0.0,0.0,0.0,2.0,
 326,Nikhil,qm78,blue,1,4944,true,4H,0.0,0.0,Engage,Engage,,5Lcube|6Lcone|6M|7H|9M,0.0,,Engage,Engage,,,0.0,0.0,0.0,0.0,4.0,
-327,Aran,qm78,red,1,3039,false,9H|8H|1M|1M,0.0,1.0,None,None,,5M|3H|2Lcube|2M|1Lcube|1M,0.0,,Engage,Engage,,,0.0,0.0,0.0,0.0,0.0,
+327,Aran,qm78,red,1,3039,false,9H|8H|1M,0.0,1.0,None,None,,5M|3H|2Lcube|2M|1Lcube,0.0,,Engage,Engage,,,0.0,0.0,0.0,0.0,0.0,
 328,Blen,qm78,red,2,4143,true,4H,0.0,1.0,Engage,Engage,,8Lcube|7Lcube|7M|6M|6H|4M|1H,0.0,,Engage,Engage,,,0.0,0.0,0.0,0.0,4.0,
 329,alexander,qm78,red,3,4663,true,2H,0.0,1.0,None,None,Slow,9M|8M|7H,0.0,,Engage,Engage,,Triple Engage,0.0,0.0,0.0,0.0,4.0,Pushed into foul by 4944| otherwise was good at driving
 330,Amogh,qm79,blue,3,3218,true,,0.0,0.0,None,,,1Lcube|2Lcube|2H|3Lcube|3H,1.0,,Engage,Engage,,,0.0,0.0,0.0,0.0,4.0,
@@ -364,3 +364,9 @@
 362,Nikhil,qm82,blue,1,5135,true,2H,0.0,false,Engage,Engage,,7Lcone|9Lcone,0.0,,Engage,Engage,,,false,false,0.0,0.0,2.0,
 363,alexander,qm82,red,3,9023,false,,0.0,false,None,None,,,0.0,,None,,,,false,false,0.0,0.0,0.0,Robot was not on the field
 364,Blen,qm82,red,2,5172,true,5Lcube,0.0,false,None,,,6M|6H|4M|3M,1.0,struggles with realigning cones to place on high nodes ,None,Park,,,false,false,0.0,0.0,0.0,
+365,Nikhil,qm83,blue,1,9062,true,5Lcone,0.0,false,None,None,,,0.0,Didn't play much this round tried helping teammate 195 back up and radio lost connection ,None,None,,,true,false,0.0,0.0,1.0,
+366,Arav,qm83,blue,2,195,true,5H|9H,0.0,true,Engage,None,,,0.0,Tipped,None,None,,,false,true,0.0,0.0,2.0,
+367,Aran,qm83,red,1,4905,true,2M|2H,0.0,true,None,None,,6H|4H|3Lcone|3H|1H,0.0,,Engage,Dock,,,false,false,0.0,0.0,4.0,
+368,alexander,qm83,red,3,1836,true,9Lcube|8Lcube,0.0,true,None,None,,7Lcube|6Lcube|5Lcube|4Lcube|2Lcube,0.0,,Engage,None,,,false,false,0.0,0.0,2.0,Disabled 195
+369,Blen,qm83,red,2,1466,true,5H,0.0,true,Engage,Engage,,6M|5M|4M|3M|1Lcone|1M,0.0,,None,Park,,,false,false,0.0,0.0,0.0,
+370,Amogh,83,blue,3,4069,true,1H|2H,0.0,true,None,None,,3H|4H|5H|6H|7H,0.0,,None,,,,false,false,0.0,0.0,0.0,
