@@ -356,5 +356,11 @@
 354,Nikhil ,qm81,blue,1,8592,true,6H,0.0,false,Engage,Engage,,5Lcube|5H|7M|7H|8H|9M|9M,0.0,,Engage,None,,,false,false,0.0,0.0,3.0,
 355,Blen,qm81,red,2,9140,true,5H,0.0,true,Engage,Engage,,9M|8M|7M|6M,0.0,,Engage,Engage,,,false,false,0.0,0.0,0.0,
 356,alexander,qm81,red,3,6817,true,8H,0.0,true,None,None,Slow,,0.0,,Engage,Engage,,Double Engage,false,true,100.0,1.0,1.0,
-357,Amogh,81,blue,3,6431,true,2Lcube,0.0,true,None,None,,,0.0,,None,None,,,false,false,60.0,2.0,2.0,
+357,Amogh,qm81,blue,3,6431,true,2Lcube,0.0,true,None,None,,,0.0,,None,None,,,false,false,60.0,2.0,2.0,
 358,Aran,qm81,red,1,4909,true,1Lcube|1H,0.0,true,None,None,,5H|4M|4H|3M|3H|2M|2H|1M,0.0,,None,Park,,,false,false,0.0,0.0,0.0,
+359,Amogh,qm82,blue,3,9030,false,8H,0.0,true,None,,,2Lcube|5Lcube|6Lcube,0.0,,Engage,Engage,,,false,false,0.0,0.0,0.0,
+360,Aran,qm82,red,1,9126,true,1H,0.0,true,None,None,,5Lcube|5M|2M|1Lcube,1.0,,Engage,Engage,,,false,false,0.0,0.0,0.0,
+361,Arav,qm82,blue,2,8015,true,,1.0,true,None,None,,1Lcube|3Lcone|5Lcone|6Lcone,0.0,,Engage,Engage,7,,false,true,0.0,0.0,0.0,
+362,Nikhil,qm82,blue,1,5135,true,2H,0.0,false,Engage,Engage,,7Lcone|9Lcone,0.0,,Engage,Engage,,,false,false,0.0,0.0,2.0,
+363,alexander,qm82,red,3,9023,false,,0.0,false,None,None,,,0.0,,None,,,,false,false,0.0,0.0,0.0,Robot was not on the field
+364,Blen,qm82,red,2,5172,true,5Lcube,0.0,false,None,,,6M|6H|4M|3M,1.0,struggles with realigning cones to place on high nodes ,None,Park,,,false,false,0.0,0.0,0.0,
