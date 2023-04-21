@@ -14949,7 +14949,7 @@
     "TeleopNotes": " | ",
     "EndgameAttemptedCharge": "Engage",
     "EndgameFinalCharge": "Engage",
-    "FinalChargeTime": NaN,
+    "FinalChargeTime": "",
     "EndgameNotes": " | ",
     "Disable": 0.0,
     "Tippy": 0.0,
