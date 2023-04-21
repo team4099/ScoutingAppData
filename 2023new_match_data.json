@@ -14238,13 +14238,13 @@
     "DriverStation": 1,
     "TeamNumber": 3039,
     "Preloaded": "false",
-    "AutoGrid": "9H|8H|1M|1M",
+    "AutoGrid": "9H|8H|1M",
     "AutoMissed": 0.0,
     "Mobile": 1.0,
     "AutoAttemptedCharge": "None",
     "AutoChargingState": "None",
     "AutoNotes": "",
-    "TeleopGrid": "5M|3H|2Lcube|2M|1Lcube|1M",
+    "TeleopGrid": "5M|3H|2Lcube|2M|1Lcube",
     "TeleopMissed": 0.0,
     "TeleopNotes": "",
     "EndgameAttemptedCharge": "Engage",
@@ -14260,15 +14260,13 @@
     "scanRaw": "Aran|qm|78|red|1|3039|false|1H|2H|9M|9M|0|true||None||5M|7H|8Lcube|8M|9Lcube|9M|0||Engage|Engage|||false|false|0|0|0|",
     "AutoCones": [
       "High",
-      "Mid",
       "Mid"
     ],
     "AutoCubes": [
       "High"
     ],
     "TeleopCones": [
-      "High",
-      "Mid"
+      "High"
     ],
     "TeleopCubes": [
       "Mid",
