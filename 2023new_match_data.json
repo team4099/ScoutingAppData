@@ -4381,7 +4381,7 @@
     "DriverStation": 2,
     "TeamNumber": 11,
     "Preloaded": "false",
-    "AutoGrid": "7H|8H",
+    "AutoGrid": "7H|8H|1H|2H|3H|4H|5H|6H|1M|2M|3M|4M|5M|6M|7M",
     "AutoMissed": 0.0,
     "Mobile": 0.0,
     "AutoAttemptedCharge": "None",
