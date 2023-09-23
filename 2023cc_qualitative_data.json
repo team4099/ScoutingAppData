@@ -23,5 +23,30 @@
     "ConeIntakingSkill": "Good",
     "CubeIntakingSkill": "Poor",
     "SubstationSpeed": "Very Poor"
+  },
+  {
+    "ScoutId": "shayaan",
+    "MatchKey": "qm1",
+    "Alliance": "blue",
+    "DriverStation": "",
+    "TeamNumber": 1727,
+    "AutoPieces": 2,
+    "AutoStartingPosition": "Cable protector side",
+    "AutoEngaged": "true",
+    "AutoIntakeAccuracy": "true",
+    "AutoScoringAccuracy": "Okay",
+    "AutoDrivingSkills": "true",
+    "AutoNotes": "",
+    "TeleopPieces": 1,
+    "TeleopPath": "Cable protector side to loading zone",
+    "TeleopAligningSpeed": "Fast",
+    "TeleopCommunitySkill": "Poor",
+    "TeleopIntakingLocation": "Ground",
+    "Disabled": "true",
+    "Tippy": "true",
+    "DriverRating": "Average",
+    "ConeIntakingSkill": "Good",
+    "CubeIntakingSkill": "Poor",
+    "SubstationSpeed": "Very Poor"
   }
 ]
