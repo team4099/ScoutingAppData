@@ -2110,5 +2110,210 @@
     "RatingNotes": "Struggled aligning to get pieces from substation",
     "TeleopCones": [],
     "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Adrian",
+    "MatchKey": "qm13",
+    "Alliance": "blue",
+    "DriverStation": 3,
+    "TeamNumber": 686,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      3,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [
+      1,
+      1
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "High",
+      "Low"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sydney",
+    "MatchKey": "qm13",
+    "Alliance": "blue",
+    "DriverStation": 2,
+    "TeamNumber": 9072,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      3
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Olivia",
+    "MatchKey": "qm13",
+    "Alliance": "blue",
+    "DriverStation": 1,
+    "TeamNumber": 8592,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 1,
+    "AutoMissed": 1,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      2,
+      1
+    ],
+    "TeleopMid": [
+      0,
+      1
+    ],
+    "TeleopLow": [],
+    "TeleopNotes": "Took long to score high cone ",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High"
+    ],
+    "TeleopCubes": [
+      "High",
+      "Mid"
+    ]
+  },
+  {
+    "ScoutId": "Alex",
+    "MatchKey": "qm13",
+    "Alliance": "red",
+    "DriverStation": 2,
+    "TeamNumber": 4099,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "No auto do anything",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      2,
+      1
+    ],
+    "TeleopNotes": "",
+    "Disable": "true",
+    "Tippy": "false",
+    "DriverRating": 3,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "Low",
+      "Low"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Aryan",
+    "MatchKey": "qm13",
+    "Alliance": "red",
+    "DriverStation": 3,
+    "TeamNumber": 3748,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      2,
+      0
+    ],
+    "TeleopNotes": "Only able to collect cones from stationary drops. Many dropped cones when trying to score. ",
+    "Disable": "true",
+    "Tippy": "false",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "Low",
+      "Low"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Sumeir",
+    "MatchKey": "qm13",
+    "Alliance": "red",
+    "DriverStation": 1,
+    "TeamNumber": 1629,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      2,
+      0
+    ],
+    "TeleopMid": [
+      0,
+      0
+    ],
+    "TeleopLow": [],
+    "TeleopNotes": "no cube intake and struggled with intaking cones from human player, ended up playing defense towards the end of the match instead",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 3,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High"
+    ],
+    "TeleopCubes": []
   }
 ]
