@@ -2646,5 +2646,322 @@
       "High"
     ],
     "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Olivia",
+    "MatchKey": "qm16",
+    "Alliance": "red",
+    "DriverStation": 3,
+    "TeamNumber": 8726,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      1,
+      0
+    ],
+    "TeleopNotes": "Intake is really bad",
+    "Disable": "false",
+    "Tippy": "true",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "Low"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Sydney",
+    "MatchKey": "qm16",
+    "Alliance": "blue",
+    "DriverStation": 2,
+    "TeamNumber": 3793,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      3
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "true",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Kat",
+    "MatchKey": "qm16",
+    "Alliance": "red",
+    "DriverStation": 1,
+    "TeamNumber": 620,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "The signal was lost and they disabled in the middle of game. Started moving a little but then stoppers again.",
+    "Disable": "true",
+    "Tippy": "false",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Sherry",
+    "MatchKey": "qm16",
+    "Alliance": "red",
+    "DriverStation": 2,
+    "TeamNumber": 7770,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "sri",
+    "MatchKey": "qm16",
+    "Alliance": "blue",
+    "DriverStation": 1,
+    "TeamNumber": 5830,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "Didn\u0019t attempt much, seemed to be having some issues with the robot as it was nearly stationary for a good part of it",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 1,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Kevin Ly",
+    "MatchKey": "qm16",
+    "Alliance": "blue",
+    "DriverStation": 3,
+    "TeamNumber": 614,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 2,
+    "AutoMissed": 1,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "Easily climbed the platform",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      2
+    ],
+    "TeleopNotes": "Main strat was pushing nearby cubes to low\nCould pick up but did so rarely",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 2,
+    "RatingNotes": "Driving didn"t seem super in control\nEither really slow or really fast\nBumped into stuff",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sydney",
+    "MatchKey": "qm17",
+    "Alliance": "blue",
+    "DriverStation": 2,
+    "TeamNumber": 1727,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 1,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      5,
+      2
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      2
+    ],
+    "TeleopNotes": "Quick engage ",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 5,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "High",
+      "High",
+      "High"
+    ],
+    "TeleopCubes": [
+      "High",
+      "High",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Olivia",
+    "MatchKey": "qm17",
+    "Alliance": "red",
+    "DriverStation": 3,
+    "TeamNumber": 3748,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      4
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low",
+      "Low",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Kat",
+    "MatchKey": "qm17",
+    "Alliance": "red",
+    "DriverStation": 1,
+    "TeamNumber": 6326,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      2,
+      1
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "true",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High"
+    ],
+    "TeleopCubes": [
+      "High"
+    ]
+  },
+  {
+    "ScoutId": "Sherry",
+    "MatchKey": "qm17",
+    "Alliance": "red",
+    "DriverStation": 2,
+    "TeamNumber": 686,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      3,
+      0
+    ],
+    "TeleopMid": [
+      1,
+      0
+    ],
+    "TeleopLow": [],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "High",
+      "Mid"
+    ],
+    "TeleopCubes": []
   }
 ]
