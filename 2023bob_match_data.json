@@ -10,7 +10,7 @@
     "AutoMid": 0,
     "AutoLow": 0,
     "AutoMissed": 0,
-    "AutoEngageAttempted": "false",
+    "AutoEngageAttempted": "false",x
     "AutoEngageSuccessful": "false",
     "AutoNotes": "stayed in community",
     "TeleopHigh": [
@@ -2813,7 +2813,7 @@
     "Disable": "false",
     "Tippy": "false",
     "DriverRating": 2,
-    "RatingNotes": "Driving didn"t seem super in control\nEither really slow or really fast\nBumped into stuff",
+    "RatingNotes": "Driving didn't seem super in control\nEither really slow or really fast\nBumped into stuff",
     "TeleopCones": [],
     "TeleopCubes": [
       "Low",
