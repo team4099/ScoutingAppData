@@ -193,5 +193,207 @@
     "TeleopCubes": [
       "Low"
     ]
+  },
+  {
+    "ScoutId": "Rachel",
+    "MatchKey": "qm2",
+    "Alliance": "blue",
+    "DriverStation": 2,
+    "TeamNumber": 614,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      3
+    ],
+    "TeleopNotes": "",
+    "Disable": "true",
+    "Tippy": "false",
+    "DriverRating": 3,
+    "RatingNotes": "bumper fell off",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Joshua T",
+    "MatchKey": "qm2",
+    "Alliance": "red",
+    "DriverStation": 3,
+    "TeamNumber": 3793,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "Drove straight forward into enemy zone, very inefficient movement, bumper jolts as robot tried to move",
+    "TeleopHigh": [],
+    "TeleopMid": [
+      0,
+      1
+    ],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "Wobbles as it drives bc of tank drive, struggles to coordinate with human player, drops pieces while trying to score, gets stuck in scoring posotiojs against grid, double engage",
+    "Disable": "false",
+    "Tippy": "true",
+    "DriverRating": 0,
+    "RatingNotes": "Bumped into teammates a lot",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Mid",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "shayaan",
+    "MatchKey": "qm2",
+    "Alliance": "blue",
+    "DriverStation": 1,
+    "TeamNumber": 5549,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "",
+    "Disable": "true",
+    "Tippy": "false",
+    "DriverRating": 2,
+    "RatingNotes": "disabled in the enemy loading zone",
+    "TeleopCones": [],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Olivia",
+    "MatchKey": "qm2",
+    "Alliance": "red",
+    "DriverStation": 1,
+    "TeamNumber": 686,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 1,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      4,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "tippy when moving across charge station ",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "High",
+      "High"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Adrian Sun",
+    "MatchKey": "qm2",
+    "Alliance": "blue",
+    "DriverStation": 3,
+    "TeamNumber": 4099,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "Did nothing ",
+    "TeleopHigh": [
+      2,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      4
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 5,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High"
+    ],
+    "TeleopCubes": [
+      "Low",
+      "Low",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sydney",
+    "MatchKey": "qm2",
+    "Alliance": "red",
+    "DriverStation": 2,
+    "TeamNumber": 4547,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 1,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      0,
+      1
+    ],
+    "TeleopMid": [
+      0,
+      2
+    ],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "Shoots cubes from behind charge station or side of charge station ",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "High",
+      "Mid",
+      "Mid",
+      "Low"
+    ]
   }
 ]
