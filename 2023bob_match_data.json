@@ -2963,5 +2963,243 @@
       "Mid"
     ],
     "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Kevin Ly",
+    "MatchKey": "qm17",
+    "Alliance": "blue",
+    "DriverStation": 3,
+    "TeamNumber": 4575,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 1,
+    "AutoMid": 1,
+    "AutoLow": 2,
+    "AutoMissed": 2,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "Easily got up the charge station with another robot",
+    "TeleopHigh": [
+      0,
+      1
+    ],
+    "TeleopMid": [
+      0,
+      1
+    ],
+    "TeleopLow": [
+      0,
+      2
+    ],
+    "TeleopNotes": "Strat of throwing cubes near the stations and then pushing or shooting them back up",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 1,
+    "RatingNotes": "Seemed like they had good control of the robot. Navigated the field fast. Some bumps",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "High",
+      "Mid",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sydney",
+    "MatchKey": "qm18",
+    "Alliance": "blue",
+    "DriverStation": 2,
+    "TeamNumber": 5549,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [
+      1,
+      0
+    ],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "Mid"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Olivia",
+    "MatchKey": "qm18",
+    "Alliance": "red",
+    "DriverStation": 3,
+    "TeamNumber": 5115,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 1,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "Cone was supposed to be high but went to low ",
+    "TeleopHigh": [],
+    "TeleopMid": [
+      1,
+      0
+    ],
+    "TeleopLow": [],
+    "TeleopNotes": "Intake is really bad and bad counter defense ",
+    "Disable": "false",
+    "Tippy": "true",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "Mid"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Kat",
+    "MatchKey": "qm18",
+    "Alliance": "red",
+    "DriverStation": 1,
+    "TeamNumber": 1629,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      4,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "High",
+      "High"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sherry",
+    "MatchKey": "qm18",
+    "Alliance": "red",
+    "DriverStation": 2,
+    "TeamNumber": 2377,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      2,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "sri",
+    "MatchKey": "qm18",
+    "Alliance": "blue",
+    "DriverStation": 1,
+    "TeamNumber": 888,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "Uncontrolled driving",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Kevin Ly",
+    "MatchKey": "qm18",
+    "Alliance": "blue",
+    "DriverStation": 3,
+    "TeamNumber": 5549,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 1,
+    "AutoLow": 1,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "Had a little trouble balancing with another robot",
+    "TeleopHigh": [],
+    "TeleopMid": [
+      1,
+      0
+    ],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "Really slow with grabbing a cube from the ground",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "Drove good\nSlow to pick up and place pieces",
+    "TeleopCones": [
+      "Mid"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
   }
 ]
