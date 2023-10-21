@@ -577,5 +577,200 @@
       "Low",
       "Low"
     ]
+  },
+  {
+    "ScoutId": "Rachel",
+    "MatchKey": "qm4",
+    "Alliance": "blue",
+    "DriverStation": 2,
+    "TeamNumber": 1629,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "true",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      3,
+      0
+    ],
+    "TeleopMid": [
+      0,
+      0
+    ],
+    "TeleopLow": [],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 3,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "High"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Joshua T",
+    "MatchKey": "qm4",
+    "Alliance": "red",
+    "DriverStation": 3,
+    "TeamNumber": 5830,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "Slow, ineffective movement, tank drive messes up performance and engaging",
+    "Disable": "false",
+    "Tippy": "true",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Adrian Sun",
+    "MatchKey": "qm4",
+    "Alliance": "blue",
+    "DriverStation": 3,
+    "TeamNumber": 6326,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 1,
+    "AutoMissed": 1,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      1,
+      1
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [
+      1,
+      1
+    ],
+    "TeleopNotes": "Occasionally drops their cube/cone when trying to score high. Almost tipped it over when engaging.",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "Low"
+    ],
+    "TeleopCubes": [
+      "High",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sammy",
+    "MatchKey": "qm4",
+    "Alliance": "blue",
+    "DriverStation": 1,
+    "TeamNumber": 4050,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 0,
+    "AutoMid": 1,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "Could barely move",
+    "Disable": "true",
+    "Tippy": "false",
+    "DriverRating": 1,
+    "RatingNotes": "No movement",
+    "TeleopCones": [],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Olivia",
+    "MatchKey": "qm4",
+    "Alliance": "red",
+    "DriverStation": 1,
+    "TeamNumber": 620,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 1,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      2,
+      1
+    ],
+    "TeleopNotes": "Engaged got stuck on the fence disconnected and connected a lot ",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 1,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "Low",
+      "Low"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sydney",
+    "MatchKey": "qm4",
+    "Alliance": "red",
+    "DriverStation": 2,
+    "TeamNumber": 3748,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 1,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [],
+    "TeleopLow": [
+      4,
+      1
+    ],
+    "TeleopNotes": "Quick engage ",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "Low",
+      "Low",
+      "Low",
+      "Low"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
   }
 ]
