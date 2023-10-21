@@ -2813,7 +2813,7 @@
     "Disable": "false",
     "Tippy": "false",
     "DriverRating": 2,
-    "RatingNotes": "Driving didnt seem super in control\nEither really slow or really fast\nBumped into stuff",
+    "RatingNotes": "Driving didn"t seem super in control\nEither really slow or really fast\nBumped into stuff",
     "TeleopCones": [],
     "TeleopCubes": [
       "Low",
@@ -3197,6 +3197,215 @@
     "RatingNotes": "Drove good\nSlow to pick up and place pieces",
     "TeleopCones": [
       "Mid"
+    ],
+    "TeleopCubes": [
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sydney",
+    "MatchKey": "qm19",
+    "Alliance": "blue",
+    "DriverStation": 2,
+    "TeamNumber": 4099,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      2,
+      2
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [
+      1,
+      2
+    ],
+    "TeleopNotes": "Nice engage ",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "Low"
+    ],
+    "TeleopCubes": [
+      "High",
+      "High",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Olivia",
+    "MatchKey": "qm19",
+    "Alliance": "red",
+    "DriverStation": 3,
+    "TeamNumber": 2537,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [
+      0,
+      1
+    ],
+    "TeleopLow": [
+      0,
+      1
+    ],
+    "TeleopNotes": "Takes long to get cubes from ground ",
+    "Disable": "false",
+    "Tippy": "true",
+    "DriverRating": 2,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Mid",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Sherry",
+    "MatchKey": "qm19",
+    "Alliance": "red",
+    "DriverStation": 2,
+    "TeamNumber": 5830,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "true",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      1,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Kat ",
+    "MatchKey": "qm19",
+    "Alliance": "red",
+    "DriverStation": 1,
+    "TeamNumber": 8726,
+    "StartingPosition": "Loading Zone",
+    "AutoHigh": 0,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [
+      3,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [],
+    "TeleopNotes": "",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [
+      "High",
+      "High",
+      "High"
+    ],
+    "TeleopCubes": []
+  },
+  {
+    "ScoutId": "Sri",
+    "MatchKey": "qm19",
+    "Alliance": "blue",
+    "DriverStation": 1,
+    "TeamNumber": 3793,
+    "StartingPosition": "Cable Cover",
+    "AutoHigh": 1,
+    "AutoMid": 0,
+    "AutoLow": 0,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "",
+    "TeleopHigh": [],
+    "TeleopMid": [
+      0,
+      1
+    ],
+    "TeleopLow": [
+      0,
+      2
+    ],
+    "TeleopNotes": "",
+    "Disable": "true",
+    "Tippy": "false",
+    "DriverRating": 0,
+    "RatingNotes": "",
+    "TeleopCones": [],
+    "TeleopCubes": [
+      "Mid",
+      "Low",
+      "Low"
+    ]
+  },
+  {
+    "ScoutId": "Kevin Ly",
+    "MatchKey": "qm19",
+    "Alliance": "blue",
+    "DriverStation": 3,
+    "TeamNumber": 2199,
+    "StartingPosition": "Charge Station",
+    "AutoHigh": 2,
+    "AutoMid": 0,
+    "AutoLow": 1,
+    "AutoMissed": 0,
+    "AutoEngageAttempted": "false",
+    "AutoEngageSuccessful": "false",
+    "AutoNotes": "Good at placing high cones",
+    "TeleopHigh": [
+      2,
+      0
+    ],
+    "TeleopMid": [],
+    "TeleopLow": [
+      2,
+      1
+    ],
+    "TeleopNotes": "Loves cones but loses hold of them",
+    "Disable": "false",
+    "Tippy": "false",
+    "DriverRating": 4,
+    "RatingNotes": "Well controlled driving",
+    "TeleopCones": [
+      "High",
+      "High",
+      "Low",
+      "Low"
     ],
     "TeleopCubes": [
       "Low"
