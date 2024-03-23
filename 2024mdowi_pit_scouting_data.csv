@@ -1,0 +1,36 @@
+Timestamp,Scout Name,Team Number,Programming language,Do you use any Neos on your robot?,Drivetrain,Drivetrain Width (front/back of robot),Drivetrain Length (left/right side of robot),Where can you intake from?,Where do you prefer to intake?,Where are you best at scoring/prefer to score?,Can you score in the trap?,Additional comments or information,Take a photo of the robot and send in corresponding slack thread,Can you climb?,"Can you shoot from further back from the subwoofer? If so, how far?"
+3/22/2024 20:15:17,Shayaan Wadkar,4541,Java,"neos on robot, vortex on shooter",Swerve,27,32,"Ground, Directly from source","Ground, Directly from source","Speaker, Amp",No,"likes to score in amp, good at adapting to other teams",Done,Yes,no
+3/23/2024 8:18:34,Ryan,8622,Java,Yes,Swerve,29,29,Ground,Ground,Speaker,No,,Done,Yes,
+3/23/2024 8:18:42,,8622,Java,Yes,Swerve,29,29,Ground,Ground,Speaker,No,,Done,Yes,
+3/23/2024 8:19:59,Nathan,6863,C++,Yes,Swerve,26,34,None,None,Speaker,No,No intake,Done,Yes,
+3/23/2024 8:21:14,"Nick Kopaliani, Michael Leno, Carter Ortiz",3793,Java,Yes,Swerve,26,26,Ground,Ground,Amp,No,,Done,No,"No, have to be up against the speaker."
+3/23/2024 8:21:47,Hriday,8726,Java,Yes,Swerve,24,30,Ground,Ground,Speaker,No,,Done,Yes,need to be next to speaker
+3/23/2024 8:21:59,Ryan,8726,Java,Yes,Swerve,24,30,Ground,Ground,Speaker,No,,Done,Yes,
+3/23/2024 8:26:14,Arjun Mujumdar,7770,Java,Yes,Swerve,25,25,Ground,Ground,Speaker,No,,Done,Yes,12”
+3/23/2024 8:26:38,Palak Satyawani,1111,Java,Yes,Swerve,26,26,Ground,Ground,Speaker,No,"Intake is fast
+Solid at defense",Done,No,No
+3/23/2024 8:27:01,nathan,7886,Java,Yes,Swerve,28,25,Directly from source,Directly from source,Amp,No,dimensions approximate,Done,No,
+3/23/2024 8:27:50,Hriday,8582,Java,Yes,Swerve,26,,Ground,Ground,Speaker,No,,Done,Yes,16ft
+3/23/2024 8:27:54,"Nick Kopaliani, Michael Leno, Carter Ortiz",5830,Java,Yes,Swerve,20,20,"Ground, Directly from source",Ground,Amp,No,,Done,Yes,Yes
+3/23/2024 8:30:23,,1719,Java,Yes,Swerve,27,27,Ground,Ground,Speaker,No,"Consistent at climbing, 10 second cycle, can play defense, can attach poster board as blocker",Done,Yes,100% accuracy from the safe zone
+3/23/2024 8:32:09,"Nick Kopaliani, Michael Leno, Carter Ortiz",449,Kotlin,Yes,Swerve,27.25,27.5,Ground,Ground,"Speaker, Amp, Anywhere",No,,Done,Yes,"Yes, from podium."
+3/23/2024 8:33:13,Olivia Lee ,1727,Java,Yes,Swerve,26,27,"Ground, Directly from source",Ground,Anywhere,Yes,"Under the bumper intake, mostly offense ",Done,Yes,Around the first podium 
+3/23/2024 8:35:24,Sydney,2377,Java,Yes,Swerve,24,24,"Ground, Directly from source",Ground,Anywhere,No,Can play defense,Done,Yes,100% from 100 inches
+3/23/2024 8:38:18,"Nick Kopaliani, Carter Ortiz, Michael Leno",614,Java,Yes,Swerve,29,26,Ground,Ground,Speaker,No,,Done,Yes,"Yes, from stage."
+3/23/2024 8:39:37,Palak,1389,Java,Yes,Swerve,24,24,"Ground, Directly from source",Ground,"Speaker, Amp",No,"Double climb
+Very fast and very long range
+Partner climb
+Auto aim for speaker",Done,Yes,Yes 12 ft away
+3/23/2024 8:41:35,"Nick Kopaliani, Michael Leno, Carter Ortiz",686,Java,Yes,Swerve,29,29,Ground,Ground,"Speaker, Amp",No,,Done,No,"Yes, from wingline."
+3/23/2024 8:42:45,Nivedha,6213,Java,Yes,Mecanum,32,27,Ground,Ground,Speaker,No,,Done,No,Can shoot from podium
+3/23/2024 8:44:25,Eugene,2534,Robot Java,Yes,Swerve,28,28,Ground,Ground,Speaker,No,can fit under stage and can harmonize,Done,Yes,Have to be next to it
+3/23/2024 8:44:47,Rithvik Kondragunta,3748,Java,Yes,Swerve,29,29,Ground,Ground,"Speaker, Amp",No,,Done,Yes,No
+3/23/2024 8:45:22,Nivedha,6326,Java,Yes,Swerve,29,29,Ground,Ground,Amp,No,,Done,Yes,
+3/23/2024 8:45:34,"Nick Kopaliani, Michael Leno, Carter Ortiz",836,Java,Krakens and falcons,Swerve,29.75,29.5,Ground,Ground,Speaker,Yes,,Done,Yes,"Yes, anywhere within their wing."
+3/23/2024 8:47:55,Eugene,2849,Java,Yes,Swerve,33.5,26,Directly from source,Directly from source,Speaker,No,,Done,Yes,preferably right against
+3/23/2024 8:48:13,Nivedha,5841,Java,Yes,Swerve,29,29,Ground,Ground,Speaker,No,,Done,No,Maybe
+3/23/2024 8:48:52,Ryan,8592,Java,Yes,Swerve,26,29,Ground,Ground,Speaker,No,,Done,Yes,16ft
+3/23/2024 8:48:53,Kevin,2914,Java,Yes,Swerve,29,29,Directly from source,Directly from source,Speaker,No,Extra boards aval for shot blocker,Done,Yes,1 ft
+3/23/2024 8:48:59,"Nick Kopaliani, Michael Leno, Carter Ortiz.",888,Java,Yes,Swerve,31,37,Ground,Ground,Speaker,No,,Done,Yes,No
+3/23/2024 8:51:16,Ryan,9072,Java,Yes,Swerve,22,24,Ground,Ground,Speaker,No,,Done,No,Anywhere in wing
+3/23/2024 8:52:53,Eugene,2537,Kotlin,Yes,Swerve,25,33,"Ground, Directly from source",Ground,Speaker,No,heavy robot for defense,Done,Yes,anywhere on their half
