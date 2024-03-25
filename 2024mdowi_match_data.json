@@ -234,13 +234,13 @@
         "ClimbStatus": false,
         "Harmonized": false,
         "ClimbSpeed": "",
-        "EndgameNotes": "The robot didnt do much it just scored twice and was immobile for the rest of the game.",
+        "EndgameNotes": "The robot didn\u0018t do much it just scored twice and was immobile for the rest of the game.",
         "Disabled": true,
         "DriverRating": "Average",
         "DefenseTime": "Never",
         "DefenseSkill": "",
         "CounterDefenseSkill": "",
-        "RatingNotes": "The robot wasnt being defended against and didnt defend at all. They scored twice and that was it."
+        "RatingNotes": "The robot wasnt being defended against and didn\u0019t defend at all. They scored twice and that was it."
     },
     {
         "ScoutId": "Nick Kopaliani",
