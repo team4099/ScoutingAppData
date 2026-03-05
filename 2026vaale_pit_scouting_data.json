@@ -1,1 +1,34 @@
-[{"ScoutId": "testing", "TeamNumber": 67, "HopperCapacity": 12, "DrivetrainLength": 24, "DrivetrainWidth": 24, "WeightOfRobot": 120}]
+[
+  {
+    "ScoutId": "Yusuf",
+    "TeamNumber": 190,
+    "HopperCapacity": 50,
+    "DrivetrainLength": 27,
+    "DrivetrainWidth": 27,
+    "WeightOfRobot": 100
+  },
+  {
+    "ScoutId": "Yusuf",
+    "TeamNumber": 1512,
+    "HopperCapacity": 50,
+    "DrivetrainLength": 27,
+    "DrivetrainWidth": 27,
+    "WeightOfRobot": 100
+  },
+  {
+    "ScoutId": "Yusuf",
+    "TeamNumber": 1523,
+    "HopperCapacity": 50,
+    "DrivetrainLength": 27,
+    "DrivetrainWidth": 27,
+    "WeightOfRobot": 100
+  },
+  {
+    "ScoutId": "Yusuf",
+    "TeamNumber": 2342,
+    "HopperCapacity": 50,
+    "DrivetrainLength": 27,
+    "DrivetrainWidth": 27,
+    "WeightOfRobot": 100
+  }
+]
