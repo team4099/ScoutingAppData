@@ -199,7 +199,7 @@
     "AutoClimb":false,
     "TeleopSingularCount":0,
     "AutoSingularCount":0,
-    "AutoBatchCount":0,
+    "AutoBatchCount":2,
     "TeleopBatchCount":0
   },
   {
